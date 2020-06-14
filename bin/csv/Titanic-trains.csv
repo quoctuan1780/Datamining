@@ -1,0 +1,184 @@
+Pclass,Sex,Age,SibSp,Parch,Cabin,Embarked,Survived
+Class1,female,21To40,1SibSp,0Parch,C85,C,Yes
+Class1,female,21To40,1SibSp,0Parch,C123,S,Yes
+Class1,male,41To60,0SibSp,0Parch,E46,S,No
+Class3,female,1To20,1SibSp,1Parch,G6,S,Yes
+Class1,female,41To60,0SibSp,0Parch,C103,S,Yes
+Class2,male,21To40,0SibSp,0Parch,D56,S,Yes
+Class1,male,21To40,0SibSp,0Parch,A6,S,Yes
+Class1,male,1To20,3SibSp,2Parch,C23 C25 C27,S,No
+Class1,female,41To60,1SibSp,0Parch,D33,C,Yes
+Class1,male,MoreThan60,0SibSp,1Parch,B30,C,No
+Class1,male,41To60,1SibSp,0Parch,C83,S,No
+Class2,female,21To40,0SibSp,0Parch,F33,S,Yes
+Class3,male,21To40,0SibSp,0Parch,F G73,S,No
+Class1,female,21To40,3SibSp,2Parch,C23 C25 C27,S,Yes
+Class1,male,41To60,1SibSp,0Parch,E31,S,No
+Class1,male,MoreThan60,0SibSp,0Parch,A5,C,No
+Class1,male,21To40,0SibSp,1Parch,D10 D12,C,Yes
+Class1,male,21To40,0SibSp,1Parch,D26,S,No
+Class1,male,41To60,0SibSp,0Parch,C110,S,No
+Class1,male,21To40,0SibSp,1Parch,B58 B60,C,No
+Class2,female,21To40,0SibSp,0Parch,E101,S,Yes
+Class1,male,41To60,0SibSp,1Parch,D26,S,No
+Class1,female,1To20,0SibSp,2Parch,D47,S,Yes
+Class1,male,21To40,1SibSp,0Parch,C123,S,No
+Class1,male,21To40,0SibSp,0Parch,B86,C,No
+Class2,male,21To40,0SibSp,2Parch,F2,S,No
+Class1,female,21To40,1SibSp,0Parch,C2,S,Yes
+Class1,male,MoreThan60,0SibSp,0Parch,B19,S,No
+Class1,male,41To60,0SibSp,0Parch,A7,C,No
+Class1,female,41To60,0SibSp,0Parch,C49,C,No
+Class2,male,1To20,2SibSp,1Parch,F4,S,Yes
+Class2,male,1To20,1SibSp,1Parch,F2,S,Yes
+Class1,female,41To60,0SibSp,0Parch,B4,C,Yes
+Class1,female,41To60,0SibSp,0Parch,B80,C,Yes
+Class3,female,1To20,0SibSp,1Parch,G6,S,No
+Class1,male,21To40,0SibSp,0Parch,A31,C,Yes
+Class1,female,21To40,1SibSp,0Parch,D36,C,Yes
+Class1,female,21To40,0SibSp,0Parch,D15,C,Yes
+Class1,male,21To40,1SibSp,0Parch,C93,S,Yes
+Class1,female,21To40,1SibSp,0Parch,C83,S,Yes
+Class1,male,41To60,2SibSp,0Parch,C78,Q,No
+Class1,male,21To40,1SibSp,1Parch,D35,S,Yes
+Class3,female,21To40,1SibSp,1Parch,G6,S,No
+Class1,male,MoreThan60,0SibSp,0Parch,C87,S,No
+Class1,female,21To40,0SibSp,0Parch,B77,S,Yes
+Class1,male,41To60,1SibSp,1Parch,E67,S,No
+Class1,male,21To40,0SibSp,0Parch,B94,S,No
+Class1,female,41To60,0SibSp,1Parch,C125,S,Yes
+Class1,female,21To40,0SibSp,0Parch,C99,S,Yes
+Class1,male,21To40,0SibSp,1Parch,C118,C,No
+Class1,female,MoreThan60,1SibSp,0Parch,D7,S,Yes
+Class1,female,1To20,1SibSp,0Parch,B49,C,Yes
+Class2,male,21To40,0SibSp,0Parch,D,C,No
+Class1,female,1To20,1SibSp,2Parch,C22 C26,S,No
+Class1,female,41To60,0SibSp,1Parch,B58 B60,C,Yes
+Class1,male,1To20,1SibSp,2Parch,C22 C26,S,Yes
+Class1,female,1To20,1SibSp,0Parch,C65,C,Yes
+Class1,female,21To40,0SibSp,0Parch,E36,C,Yes
+Class1,female,21To40,0SibSp,0Parch,C54,C,Yes
+Class1,female,1To20,2SibSp,2Parch,B57 B59 B63 B66,C,Yes
+Class1,female,21To40,0SibSp,2Parch,C7,S,Yes
+Class1,female,21To40,1SibSp,1Parch,E34,C,Yes
+Class1,female,21To40,0SibSp,0Parch,C32,C,Yes
+Class2,female,21To40,0SibSp,0Parch,D,S,Yes
+Class1,female,1To20,0SibSp,1Parch,B18,C,Yes
+Class1,male,41To60,0SibSp,0Parch,C124,S,No
+Class1,male,21To40,0SibSp,1Parch,C91,S,No
+Class1,male,21To40,1SibSp,0Parch,C2,S,No
+Class1,female,41To60,0SibSp,0Parch,E40,C,Yes
+Class1,male,41To60,0SibSp,0Parch,T,S,No
+Class2,male,1To20,1SibSp,1Parch,F2,S,Yes
+Class1,female,21To40,3SibSp,2Parch,C23 C25 C27,S,Yes
+Class2,female,21To40,0SibSp,0Parch,F33,S,Yes
+Class1,female,21To40,0SibSp,1Parch,E33,S,Yes
+Class1,female,41To60,1SibSp,0Parch,D37,C,Yes
+Class1,female,21To40,0SibSp,0Parch,B35,C,Yes
+Class1,male,21To40,1SibSp,0Parch,E50,C,Yes
+Class1,male,21To40,0SibSp,2Parch,C82,C,No
+Class1,male,21To40,1SibSp,2Parch,B96 B98,S,Yes
+Class1,female,21To40,1SibSp,0Parch,D36,C,Yes
+Class3,female,21To40,0SibSp,2Parch,G6,S,Yes
+Class1,female,21To40,1SibSp,0Parch,C78,Q,Yes
+Class3,male,21To40,0SibSp,0Parch,E10,S,Yes
+Class1,male,21To40,0SibSp,0Parch,C52,S,Yes
+Class1,male,41To60,1SibSp,0Parch,E44,S,No
+Class1,female,1To20,1SibSp,2Parch,B96 B98,S,Yes
+Class1,male,MoreThan60,1SibSp,4Parch,C23 C25 C27,S,No
+Class1,male,1To20,0SibSp,2Parch,A34,S,Yes
+Class1,male,41To60,0SibSp,0Parch,C104,S,Yes
+Class1,male,21To40,0SibSp,0Parch,C111,C,No
+Class1,male,41To60,1SibSp,0Parch,C92,C,Yes
+Class1,male,MoreThan60,0SibSp,0Parch,E38,S,No
+Class1,male,41To60,0SibSp,0Parch,E12,S,Yes
+Class1,male,41To60,0SibSp,0Parch,E63,S,No
+Class2,female,21To40,0SibSp,0Parch,D,C,Yes
+Class1,male,21To40,1SibSp,0Parch,B49,C,Yes
+Class1,female,21To40,1SibSp,0Parch,C93,S,Yes
+Class1,male,41To60,0SibSp,0Parch,B37,C,No
+Class1,male,41To60,0SibSp,0Parch,C30,S,No
+Class1,female,41To60,1SibSp,0Parch,D20,C,Yes
+Class1,female,21To40,1SibSp,2Parch,C22 C26,S,No
+Class1,female,1To20,0SibSp,0Parch,B79,S,Yes
+Class1,male,1To20,1SibSp,0Parch,C65,C,No
+Class1,male,21To40,0SibSp,0Parch,E25,S,Yes
+Class1,male,41To60,0SibSp,0Parch,D46,S,No
+Class2,female,21To40,0SibSp,0Parch,F33,S,Yes
+Class1,female,21To40,0SibSp,0Parch,B73,S,Yes
+Class1,female,41To60,0SibSp,1Parch,B18,C,Yes
+Class1,male,41To60,0SibSp,0Parch,B38,S,No
+Class1,female,21To40,0SibSp,2Parch,B39,C,Yes
+Class1,female,21To40,0SibSp,2Parch,B22,S,Yes
+Class1,male,41To60,1SibSp,0Parch,C86,C,No
+Class1,male,1To20,0SibSp,2Parch,C70,C,Yes
+Class1,female,41To60,1SibSp,0Parch,A16,C,Yes
+Class1,female,21To40,1SibSp,1Parch,E67,S,Yes
+Class1,female,41To60,2SibSp,0Parch,C101,S,Yes
+Class1,male,21To40,0SibSp,0Parch,E25,S,Yes
+Class1,female,21To40,1SibSp,0Parch,E44,S,Yes
+Class1,female,21To40,1SibSp,1Parch,C68,C,Yes
+Class1,male,21To40,0SibSp,0Parch,A10,C,No
+Class1,female,1To20,0SibSp,2Parch,E68,S,Yes
+Class1,male,41To60,1SibSp,1Parch,B41,C,Yes
+Class1,female,41To60,1SibSp,0Parch,D20,C,Yes
+Class1,male,41To60,1SibSp,0Parch,A20,C,Yes
+Class1,female,21To40,0SibSp,0Parch,C125,S,Yes
+Class2,female,1To20,2SibSp,1Parch,F4,S,Yes
+Class1,male,41To60,1SibSp,0Parch,D19,S,Yes
+Class1,male,MoreThan60,0SibSp,0Parch,D50,S,No
+Class1,female,21To40,0SibSp,0Parch,D9,S,Yes
+Class1,male,MoreThan60,0SibSp,0Parch,A23,S,Yes
+Class1,male,21To40,0SibSp,0Parch,B50,C,Yes
+Class1,female,21To40,0SibSp,0Parch,B35,C,Yes
+Class1,male,41To60,1SibSp,0Parch,D33,C,Yes
+Class1,male,41To60,0SibSp,0Parch,A26,C,Yes
+Class1,male,41To60,0SibSp,2Parch,D48,C,No
+Class1,male,41To60,0SibSp,0Parch,E58,S,No
+Class1,male,21To40,1SibSp,0Parch,B71,S,No
+Class1,male,21To40,0SibSp,1Parch,B51 B53 B55,C,Yes
+Class1,male,21To40,0SibSp,0Parch,D49,C,Yes
+Class1,female,1To20,0SibSp,1Parch,B5,S,Yes
+Class1,male,21To40,1SibSp,0Parch,B20,S,Yes
+Class1,male,41To60,1SibSp,1Parch,C68,C,No
+Class3,male,41To60,0SibSp,0Parch,F G63,S,No
+Class1,female,1To20,1SibSp,0Parch,C62 C64,C,Yes
+Class1,male,21To40,0SibSp,0Parch,E24,S,Yes
+Class1,male,41To60,0SibSp,0Parch,E24,S,Yes
+Class1,female,21To40,0SibSp,0Parch,C90,C,Yes
+Class1,male,41To60,1SibSp,0Parch,C126,S,Yes
+Class3,male,1To20,0SibSp,0Parch,F G73,S,No
+Class1,female,21To40,0SibSp,0Parch,C45,C,Yes
+Class2,female,21To40,0SibSp,0Parch,E101,S,Yes
+Class1,male,21To40,1SibSp,0Parch,E8,S,Yes
+Class1,female,21To40,0SibSp,0Parch,B5,S,Yes
+Class1,male,21To40,0SibSp,0Parch,B101,C,Yes
+Class1,male,21To40,1SibSp,0Parch,C46,S,No
+Class1,female,21To40,2SibSp,2Parch,B57 B59 B63 B66,C,Yes
+Class1,male,MoreThan60,1SibSp,1Parch,B22,S,No
+Class1,male,1To20,1SibSp,0Parch,D30,S,No
+Class3,male,1To20,0SibSp,1Parch,E121,S,Yes
+Class1,female,21To40,0SibSp,0Parch,B77,S,Yes
+Class1,female,21To40,1SibSp,2Parch,B96 B98,S,Yes
+Class1,female,41To60,1SibSp,0Parch,D11,S,Yes
+Class2,female,41To60,0SibSp,0Parch,E77,S,No
+Class1,female,41To60,0SibSp,1Parch,B3,S,Yes
+Class1,female,1To20,1SibSp,0Parch,B20,S,Yes
+Class1,male,21To40,0SibSp,0Parch,D6,S,No
+Class1,male,41To60,0SibSp,0Parch,B82 B84,C,No
+Class1,female,41To60,0SibSp,0Parch,D17,S,Yes
+Class1,male,1To20,1SibSp,2Parch,B96 B98,S,Yes
+Class1,male,21To40,0SibSp,0Parch,A36,S,No
+Class1,female,21To40,1SibSp,0Parch,E8,S,Yes
+Class1,female,41To60,1SibSp,1Parch,B69,S,Yes
+Class3,female,21To40,0SibSp,1Parch,E121,S,Yes
+Class1,female,21To40,1SibSp,1Parch,E49,C,Yes
+Class1,female,1To20,0SibSp,1Parch,D28,S,Yes
+Class1,male,41To60,0SibSp,0Parch,E17,S,Yes
+Class1,female,41To60,0SibSp,0Parch,D17,S,Yes
+Class1,male,21To40,0SibSp,0Parch,A24,S,No
+Class1,female,41To60,1SibSp,1Parch,D35,S,Yes
+Class1,male,21To40,0SibSp,0Parch,B51 B53 B55,S,No
+Class1,female,41To60,0SibSp,1Parch,C50,C,Yes
+Class1,female,1To20,0SibSp,0Parch,B42,S,Yes
+Class1,male,21To40,0SibSp,0Parch,C148,C,Yes

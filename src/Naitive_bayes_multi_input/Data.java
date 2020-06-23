@@ -1,53 +1,11 @@
-package Naitive_Bayes;
+package Naitive_bayes_multi_input;
 
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
 
 public class Data {
-	static String[][] W = {{"Outlook",	"Temp",	"Humidity",	"Wind",	"Play?"},
-			{"Sunny",	"Hot",	"High",	"FALSE",	"No"},
-			{"Sunny",	"Hot",	"High",	"TRUE",	"No"},
-			{"Overcast",	"Hot",	"High",	"FALSE",	"Yes"},
-			{"Rainy",	"Mild",	"High",	"FALSE",	"Yes"},
-			{"Rainy",	"Cool",	"Normal",	"FALSE",	"Yes"},
-			{"Rainy",	"Cool",	"Normal",	"TRUE",	"No"},
-			{"Overcast",	"Cool",	"Normal",	"TRUE",	"Yes"},
-			{"Sunny",	"Mild",	"High",	"FALSE",	"No"},
-			{"Sunny",	"Cool",	"Normal",	"FALSE",	"Yes"},
-			{"Rainy",	"Mild",	"Normal",	"FALSE",	"Yes"},
-			{"Sunny",	"Mild",	"Normal",	"TRUE",	"Yes"},
-			{"Overcast",	"Mild",	"High",	"TRUE",	"Yes"},
-			{"Overcast",	"Hot",	"Normal",	"FALSE",	"Yes"},
-			{"Rainy",	"Mild",	"High",	"TRUE",	"No"}};
 	
-	static String[][] CONTACT_LENSES = 
-	    {{"age",        "spectacle-prescript",  "astigmatism",  "tear-prod-rate",   "prescription"},
-	    {"young",           "myhope",               "no",           "reduced",        "none"},
-	    {"young",           "myhope",               "no",           "nomal",          "soft"},
-	    {"young",           "myhope",               "yes",          "reduced",        "none"},
-	    {"young",           "myhope",               "yes",          "nomal",          "hard"},
-	    {"young",           "hypermetrope",         "no",           "reduced",        "none"},
-	    {"young",           "hypermetrope",         "no",           "nomal",          "soft"},
-	    {"young",           "hypermetrope",         "yes",          "reduced",        "none"},
-	    {"young",           "hypermetrope",         "yes",          "nomal",          "hard"},
-	    {"pre-presbyopic",  "myhope",               "no",           "reduced",        "none"},
-	    {"pre-presbyopic",  "myhope",               "no",           "nomal",          "soft"},
-	    {"pre-presbyopic",  "myhope",               "yes",          "reduced",        "none"},
-	    {"pre-presbyopic",  "myhope",               "yes",          "nomal",          "hard"},
-	    {"pre-presbyopic",  "hypermetrope",         "no",           "reduced",        "none"},
-	    {"pre-presbyopic",  "hypermetrope",         "no",           "nomal",          "soft"},
-	    {"pre-presbyopic",  "hypermetrope",         "yes",          "reduced",        "none"},
-	    {"pre-presbyopic",  "hypermetrope",         "yes",          "nomal",          "none"},
-	    {"presbyopic",      "myhope",               "no",           "reduced",        "none"},
-	    {"presbyopic",      "myhope",               "no",           "nomal",          "none"},
-	    {"presbyopic",      "myhope",               "yes",          "reduced",        "none"},
-	    {"presbyopic",      "myhope",               "yes",          "nomal",          "hard"},
-	    {"presbyopic",      "hypermetrope",         "no",           "reduced",        "none"},
-	    {"presbyopic",      "hypermetrope",         "no",           "nomal",          "soft"},
-	    {"presbyopic",      "hypermetrope",         "yes",          "reduced",        "none"},
-	    {"presbyopic",      "hypermetrope",         "yes",          "nomal",          "none"}};
-
 	    static String[][] WEATHER = 
 	       {{"outlook",     "temp",     "humidity",     "windy",       "play"},
 	        {"sunny",       "hot",      "high",         "FALSE",       "no"},
@@ -1556,11 +1514,8 @@ public class Data {
 			private static final long serialVersionUID = 1L;
 
 			{
-				put("TITANIC", TITANIC);
 				put("WEATHER", WEATHER);
-				put("CONTACT_LENSES", CONTACT_LENSES);
 				put("CARTRAINS", CARTRAINS);
-				put("W", W);
 	       }
 	    });
 }

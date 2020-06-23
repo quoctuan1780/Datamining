@@ -7,17 +7,18 @@ import java.util.Iterator;
 
 public class Main {
 	static String dataKey = Data.datas.keySet().iterator().next();
+	
 	public static void main(String[] args) throws Exception{
 		DataSet dataSet = new DataSet(Data.datas.get(dataKey));
 		System.out.println("[" + dataKey + " DATASET]\n" + dataSet);
 		BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 		boolean flag = true;
 		while(flag) {
-			System.out.println("Bạn muốn làm gì (calc probs, change dataset, exit) ?");
+			System.out.println("Bạn muốn làm gì (calc probs, change dataset, exit) ?");
 			String command = bufferedReader.readLine();
 			switch(command) {
 				case "calc probs":
-					System.out.print("Nhập các giá trị để kiểm tra, mỗi giá trị cách nhau một dấu phẩy: ");
+					System.out.print("Nhập các giá trị, mỗi giá trị cách nhau một dấu phẩy: ");
 					for(int i = 0; i < dataSet.getData()[0].length - 2; i++)
 						System.out.print(dataSet.getData()[0][i] + ", ");					
 					System.out.println(dataSet.getData()[0][dataSet.getData()[0].length - 2]);
@@ -28,7 +29,7 @@ public class Main {
 					for(int i = 0; i < dataSet.getData()[0].length - 1; i++)
 						instMap.put(dataSet.getData()[0][i], values[i].trim());
 					
-					//tính xác xuất và in ra cách tính của từng giá trị thuộc tính
+					//tÃ­nh xÃ¡c xuáº¥t vÃ  in ra cÃ¡ch tÃ­nh cá»§a tá»«ng giÃ¡ trá»‹ thuá»™c tÃ­nh
 					HashMap<String, Double> condProbs = dataSet.calcCondProbs(instMap);
 					
 					double allProbs = 0;

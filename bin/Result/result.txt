@@ -1,0 +1,2080 @@
+buying, maint, doors, persons, lug_boot, 
+
+vhigh, med, 3Doors, morePerson, small, high, 
+Pacc|<vhigh, med, 3Doors, morePerson, small, high>) = 0.00021
+Punacc|<vhigh, med, 3Doors, morePerson, small, high>) = 0.00025
+Phan lop: unacc
+
+low, vhigh, 5Doors, morePerson, big, low, 
+Pacc|<low, vhigh, 5Doors, morePerson, big, low>) = 0.00000
+Punacc|<low, vhigh, 5Doors, morePerson, big, low>) = 0.00043
+Phan lop: unacc
+
+low, high, 2Doors, 2Persons, big, med, 
+Pacc|<low, high, 2Doors, 2Persons, big, med>) = 0.00000
+Punacc|<low, high, 2Doors, 2Persons, big, med>) = 0.00045
+Phan lop: unacc
+
+vhigh, med, 3Doors, 2Persons, med, med, 
+Pacc|<vhigh, med, 3Doors, 2Persons, med, med>) = 0.00000
+Punacc|<vhigh, med, 3Doors, 2Persons, med, med>) = 0.00051
+Phan lop: unacc
+
+high, vhigh, 3Doors, 4Persons, med, high, 
+Pacc|<high, vhigh, 3Doors, 4Persons, med, high>) = 0.00019
+Punacc|<high, vhigh, 3Doors, 4Persons, med, high>) = 0.00027
+Phan lop: unacc
+
+high, vhigh, 3Doors, morePerson, big, low, 
+Pacc|<high, vhigh, 3Doors, morePerson, big, low>) = 0.00000
+Punacc|<high, vhigh, 3Doors, morePerson, big, low>) = 0.00055
+Phan lop: unacc
+
+high, low, 5Doors, 4Persons, big, med, 
+Pacc|<high, low, 5Doors, 4Persons, big, med>) = 0.00051
+Punacc|<high, low, 5Doors, 4Persons, big, med>) = 0.00022
+Phan lop: acc
+
+low, med, 4Doors, 2Persons, big, med, 
+Pacc|<low, med, 4Doors, 2Persons, big, med>) = 0.00000
+Punacc|<low, med, 4Doors, 2Persons, big, med>) = 0.00035
+Phan lop: unacc
+
+low, vhigh, 2Doors, 2Persons, big, med, 
+Pacc|<low, vhigh, 2Doors, 2Persons, big, med>) = 0.00000
+Punacc|<low, vhigh, 2Doors, 2Persons, big, med>) = 0.00054
+Phan lop: unacc
+
+med, low, 4Doors, morePerson, med, high, 
+Pacc|<med, low, 4Doors, morePerson, med, high>) = 0.00062
+Punacc|<med, low, 4Doors, morePerson, med, high>) = 0.00017
+Phan lop: acc
+
+low, low, 3Doors, morePerson, big, med, 
+Pacc|<low, low, 3Doors, morePerson, big, med>) = 0.00065
+Punacc|<low, low, 3Doors, morePerson, big, med>) = 0.00020
+Phan lop: acc
+
+med, vhigh, 3Doors, morePerson, med, high, 
+Pacc|<med, vhigh, 3Doors, morePerson, med, high>) = 0.00026
+Punacc|<med, vhigh, 3Doors, morePerson, med, high>) = 0.00024
+Phan lop: acc
+
+high, vhigh, 4Doors, 2Persons, small, low, 
+Pacc|<high, vhigh, 4Doors, 2Persons, small, low>) = 0.00000
+Punacc|<high, vhigh, 4Doors, 2Persons, small, low>) = 0.00115
+Phan lop: unacc
+
+low, low, 5Doors, morePerson, small, med, 
+Pacc|<low, low, 5Doors, morePerson, small, med>) = 0.00051
+Punacc|<low, low, 5Doors, morePerson, small, med>) = 0.00022
+Phan lop: acc
+
+vhigh, high, 4Doors, morePerson, big, med, 
+Pacc|<vhigh, high, 4Doors, morePerson, big, med>) = 0.00022
+Punacc|<vhigh, high, 4Doors, morePerson, big, med>) = 0.00029
+Phan lop: unacc
+
+vhigh, med, 5Doors, 4Persons, med, med, 
+Pacc|<vhigh, med, 5Doors, 4Persons, med, med>) = 0.00031
+Punacc|<vhigh, med, 5Doors, 4Persons, med, med>) = 0.00026
+Phan lop: acc
+
+high, vhigh, 3Doors, 4Persons, small, med, 
+Pacc|<high, vhigh, 3Doors, 4Persons, small, med>) = 0.00011
+Punacc|<high, vhigh, 3Doors, 4Persons, small, med>) = 0.00037
+Phan lop: unacc
+
+med, high, 2Doors, 4Persons, med, low, 
+Pacc|<med, high, 2Doors, 4Persons, med, low>) = 0.00000
+Punacc|<med, high, 2Doors, 4Persons, med, low>) = 0.00045
+Phan lop: unacc
+
+high, low, 2Doors, 4Persons, med, med, 
+Pacc|<high, low, 2Doors, 4Persons, med, med>) = 0.00026
+Punacc|<high, low, 2Doors, 4Persons, med, med>) = 0.00028
+Phan lop: unacc
+
+high, high, 2Doors, morePerson, big, low, 
+Pacc|<high, high, 2Doors, morePerson, big, low>) = 0.00000
+Punacc|<high, high, 2Doors, morePerson, big, low>) = 0.00052
+Phan lop: unacc
+
+low, high, 3Doors, 2Persons, big, high, 
+Pacc|<low, high, 3Doors, 2Persons, big, high>) = 0.00000
+Punacc|<low, high, 3Doors, 2Persons, big, high>) = 0.00032
+Phan lop: unacc
+
+vhigh, low, 4Doors, morePerson, big, low, 
+Pacc|<vhigh, low, 4Doors, morePerson, big, low>) = 0.00000
+Punacc|<vhigh, low, 4Doors, morePerson, big, low>) = 0.00043
+Phan lop: unacc
+
+vhigh, vhigh, 3Doors, 2Persons, big, high, 
+Pacc|<vhigh, vhigh, 3Doors, 2Persons, big, high>) = 0.00000
+Punacc|<vhigh, vhigh, 3Doors, 2Persons, big, high>) = 0.00051
+Phan lop: unacc
+
+low, high, 2Doors, morePerson, small, med, 
+Pacc|<low, high, 2Doors, morePerson, small, med>) = 0.00026
+Punacc|<low, high, 2Doors, morePerson, small, med>) = 0.00030
+Phan lop: unacc
+
+med, high, 2Doors, 2Persons, big, med, 
+Pacc|<med, high, 2Doors, 2Persons, big, med>) = 0.00000
+Punacc|<med, high, 2Doors, 2Persons, big, med>) = 0.00047
+Phan lop: unacc
+
+high, med, 3Doors, 4Persons, small, low, 
+Pacc|<high, med, 3Doors, 4Persons, small, low>) = 0.00000
+Punacc|<high, med, 3Doors, 4Persons, small, low>) = 0.00046
+Phan lop: unacc
+
+vhigh, med, 5Doors, 2Persons, big, high, 
+Pacc|<vhigh, med, 5Doors, 2Persons, big, high>) = 0.00000
+Punacc|<vhigh, med, 5Doors, 2Persons, big, high>) = 0.00036
+Phan lop: unacc
+
+med, vhigh, 2Doors, 4Persons, small, med, 
+Pacc|<med, vhigh, 2Doors, 4Persons, small, med>) = 0.00015
+Punacc|<med, vhigh, 2Doors, 4Persons, small, med>) = 0.00035
+Phan lop: unacc
+
+high, low, 3Doors, morePerson, small, high, 
+Pacc|<high, low, 3Doors, morePerson, small, high>) = 0.00026
+Punacc|<high, low, 3Doors, morePerson, small, high>) = 0.00023
+Phan lop: acc
+
+high, med, 5Doors, morePerson, big, med, 
+Pacc|<high, med, 5Doors, morePerson, big, med>) = 0.00049
+Punacc|<high, med, 5Doors, morePerson, big, med>) = 0.00023
+Phan lop: acc
+
+low, high, 3Doors, 2Persons, small, low, 
+Pacc|<low, high, 3Doors, 2Persons, small, low>) = 0.00000
+Punacc|<low, high, 3Doors, 2Persons, small, low>) = 0.00080
+Phan lop: unacc
+
+high, low, 4Doors, 2Persons, med, med, 
+Pacc|<high, low, 4Doors, 2Persons, med, med>) = 0.00000
+Punacc|<high, low, 4Doors, 2Persons, med, med>) = 0.00046
+Phan lop: unacc
+
+med, vhigh, 3Doors, 2Persons, big, high, 
+Pacc|<med, vhigh, 3Doors, 2Persons, big, high>) = 0.00000
+Punacc|<med, vhigh, 3Doors, 2Persons, big, high>) = 0.00040
+Phan lop: unacc
+
+vhigh, low, 3Doors, 4Persons, med, med, 
+Pacc|<vhigh, low, 3Doors, 4Persons, med, med>) = 0.00022
+Punacc|<vhigh, low, 3Doors, 4Persons, med, med>) = 0.00026
+Phan lop: unacc
+
+high, low, 5Doors, 4Persons, big, low, 
+Pacc|<high, low, 5Doors, 4Persons, big, low>) = 0.00000
+Punacc|<high, low, 5Doors, 4Persons, big, low>) = 0.00037
+Phan lop: unacc
+
+vhigh, vhigh, 5Doors, 2Persons, small, med, 
+Pacc|<vhigh, vhigh, 5Doors, 2Persons, small, med>) = 0.00000
+Punacc|<vhigh, vhigh, 5Doors, 2Persons, small, med>) = 0.00071
+Phan lop: unacc
+
+high, high, 2Doors, morePerson, small, high, 
+Pacc|<high, high, 2Doors, morePerson, small, high>) = 0.00018
+Punacc|<high, high, 2Doors, morePerson, small, high>) = 0.00029
+Phan lop: unacc
+
+low, high, 5Doors, 2Persons, big, low, 
+Pacc|<low, high, 5Doors, 2Persons, big, low>) = 0.00000
+Punacc|<low, high, 5Doors, 2Persons, big, low>) = 0.00064
+Phan lop: unacc
+
+low, low, 2Doors, 4Persons, med, med, 
+Pacc|<low, low, 2Doors, 4Persons, med, med>) = 0.00051
+Punacc|<low, low, 2Doors, 4Persons, med, med>) = 0.00023
+Phan lop: acc
+
+low, low, 4Doors, morePerson, big, low, 
+Pacc|<low, low, 4Doors, morePerson, big, low>) = 0.00000
+Punacc|<low, low, 4Doors, morePerson, big, low>) = 0.00032
+Phan lop: unacc
+
+low, high, 2Doors, 2Persons, small, med, 
+Pacc|<low, high, 2Doors, 2Persons, small, med>) = 0.00000
+Punacc|<low, high, 2Doors, 2Persons, small, med>) = 0.00053
+Phan lop: unacc
+
+high, med, 5Doors, morePerson, med, high, 
+Pacc|<high, med, 5Doors, morePerson, med, high>) = 0.00049
+Punacc|<high, med, 5Doors, morePerson, med, high>) = 0.00020
+Phan lop: acc
+
+high, vhigh, 2Doors, 4Persons, big, med, 
+Pacc|<high, vhigh, 2Doors, 4Persons, big, med>) = 0.00017
+Punacc|<high, vhigh, 2Doors, 4Persons, big, med>) = 0.00035
+Phan lop: unacc
+
+vhigh, vhigh, 2Doors, morePerson, small, high, 
+Pacc|<vhigh, vhigh, 2Doors, morePerson, small, high>) = 0.00009
+Punacc|<vhigh, vhigh, 2Doors, morePerson, small, high>) = 0.00038
+Phan lop: unacc
+
+vhigh, vhigh, 5Doors, 2Persons, big, low, 
+Pacc|<vhigh, vhigh, 5Doors, 2Persons, big, low>) = 0.00000
+Punacc|<vhigh, vhigh, 5Doors, 2Persons, big, low>) = 0.00101
+Phan lop: unacc
+
+vhigh, low, 4Doors, morePerson, med, high, 
+Pacc|<vhigh, low, 4Doors, morePerson, med, high>) = 0.00030
+Punacc|<vhigh, low, 4Doors, morePerson, med, high>) = 0.00022
+Phan lop: acc
+
+high, vhigh, 4Doors, 2Persons, small, med, 
+Pacc|<high, vhigh, 4Doors, 2Persons, small, med>) = 0.00000
+Punacc|<high, vhigh, 4Doors, 2Persons, small, med>) = 0.00068
+Phan lop: unacc
+
+vhigh, low, 4Doors, 4Persons, med, low, 
+Pacc|<vhigh, low, 4Doors, 4Persons, med, low>) = 0.00000
+Punacc|<vhigh, low, 4Doors, 4Persons, med, low>) = 0.00044
+Phan lop: unacc
+
+med, high, 5Doors, morePerson, med, low, 
+Pacc|<med, high, 5Doors, morePerson, med, low>) = 0.00000
+Punacc|<med, high, 5Doors, morePerson, med, low>) = 0.00040
+Phan lop: unacc
+
+vhigh, low, 5Doors, 4Persons, med, low, 
+Pacc|<vhigh, low, 5Doors, 4Persons, med, low>) = 0.00000
+Punacc|<vhigh, low, 5Doors, 4Persons, med, low>) = 0.00043
+Phan lop: unacc
+
+low, med, 2Doors, 2Persons, small, low, 
+Pacc|<low, med, 2Doors, 2Persons, small, low>) = 0.00000
+Punacc|<low, med, 2Doors, 2Persons, small, low>) = 0.00081
+Phan lop: unacc
+
+med, med, 3Doors, morePerson, big, med, 
+Pacc|<med, med, 3Doors, morePerson, big, med>) = 0.00056
+Punacc|<med, med, 3Doors, morePerson, big, med>) = 0.00020
+Phan lop: acc
+
+vhigh, high, 4Doors, 2Persons, big, med, 
+Pacc|<vhigh, high, 4Doors, 2Persons, big, med>) = 0.00000
+Punacc|<vhigh, high, 4Doors, 2Persons, big, med>) = 0.00052
+Phan lop: unacc
+
+med, low, 2Doors, morePerson, big, high, 
+Pacc|<med, low, 2Doors, morePerson, big, high>) = 0.00064
+Punacc|<med, low, 2Doors, morePerson, big, high>) = 0.00018
+Phan lop: acc
+
+vhigh, vhigh, 2Doors, 4Persons, small, low, 
+Pacc|<vhigh, vhigh, 2Doors, 4Persons, small, low>) = 0.00000
+Punacc|<vhigh, vhigh, 2Doors, 4Persons, small, low>) = 0.00075
+Phan lop: unacc
+
+high, med, 5Doors, morePerson, big, low, 
+Pacc|<high, med, 5Doors, morePerson, big, low>) = 0.00000
+Punacc|<high, med, 5Doors, morePerson, big, low>) = 0.00039
+Phan lop: unacc
+
+low, low, 2Doors, morePerson, small, low, 
+Pacc|<low, low, 2Doors, morePerson, small, low>) = 0.00000
+Punacc|<low, low, 2Doors, morePerson, small, low>) = 0.00044
+Phan lop: unacc
+
+low, vhigh, 5Doors, morePerson, med, low, 
+Pacc|<low, vhigh, 5Doors, morePerson, med, low>) = 0.00000
+Punacc|<low, vhigh, 5Doors, morePerson, med, low>) = 0.00046
+Phan lop: unacc
+
+med, vhigh, 2Doors, 4Persons, big, med, 
+Pacc|<med, vhigh, 2Doors, 4Persons, big, med>) = 0.00026
+Punacc|<med, vhigh, 2Doors, 4Persons, big, med>) = 0.00029
+Phan lop: unacc
+
+high, high, 4Doors, 4Persons, small, high, 
+Pacc|<high, high, 4Doors, 4Persons, small, high>) = 0.00025
+Punacc|<high, high, 4Doors, 4Persons, small, high>) = 0.00024
+Phan lop: acc
+
+low, high, 4Doors, morePerson, big, low, 
+Pacc|<low, high, 4Doors, morePerson, big, low>) = 0.00000
+Punacc|<low, high, 4Doors, morePerson, big, low>) = 0.00037
+Phan lop: unacc
+
+low, vhigh, 4Doors, morePerson, small, low, 
+Pacc|<low, vhigh, 4Doors, morePerson, small, low>) = 0.00000
+Punacc|<low, vhigh, 4Doors, morePerson, small, low>) = 0.00052
+Phan lop: unacc
+
+high, high, 5Doors, 2Persons, big, high, 
+Pacc|<high, high, 5Doors, 2Persons, big, high>) = 0.00000
+Punacc|<high, high, 5Doors, 2Persons, big, high>) = 0.00038
+Phan lop: unacc
+
+med, med, 3Doors, morePerson, med, high, 
+Pacc|<med, med, 3Doors, morePerson, med, high>) = 0.00056
+Punacc|<med, med, 3Doors, morePerson, med, high>) = 0.00018
+Phan lop: acc
+
+med, low, 4Doors, 2Persons, big, low, 
+Pacc|<med, low, 4Doors, 2Persons, big, low>) = 0.00000
+Punacc|<med, low, 4Doors, 2Persons, big, low>) = 0.00060
+Phan lop: unacc
+
+high, med, 4Doors, 4Persons, small, high, 
+Pacc|<high, med, 4Doors, 4Persons, small, high>) = 0.00035
+Punacc|<high, med, 4Doors, 4Persons, small, high>) = 0.00022
+Phan lop: acc
+
+med, low, 5Doors, 4Persons, big, high, 
+Pacc|<med, low, 5Doors, 4Persons, big, high>) = 0.00104
+Punacc|<med, low, 5Doors, 4Persons, big, high>) = 0.00015
+Phan lop: acc
+
+high, vhigh, 4Doors, morePerson, big, high, 
+Pacc|<high, vhigh, 4Doors, morePerson, big, high>) = 0.00025
+Punacc|<high, vhigh, 4Doors, morePerson, big, high>) = 0.00026
+Phan lop: unacc
+
+med, med, 3Doors, 4Persons, med, low, 
+Pacc|<med, med, 3Doors, 4Persons, med, low>) = 0.00000
+Punacc|<med, med, 3Doors, 4Persons, med, low>) = 0.00036
+Phan lop: unacc
+
+med, low, 4Doors, 4Persons, big, med, 
+Pacc|<med, low, 4Doors, 4Persons, big, med>) = 0.00067
+Punacc|<med, low, 4Doors, 4Persons, big, med>) = 0.00019
+Phan lop: acc
+
+vhigh, vhigh, 2Doors, 4Persons, med, high, 
+Pacc|<vhigh, vhigh, 2Doors, 4Persons, med, high>) = 0.00013
+Punacc|<vhigh, vhigh, 2Doors, 4Persons, med, high>) = 0.00033
+Phan lop: unacc
+
+low, low, 3Doors, morePerson, small, high, 
+Pacc|<low, low, 3Doors, morePerson, small, high>) = 0.00050
+Punacc|<low, low, 3Doors, morePerson, small, high>) = 0.00019
+Phan lop: acc
+
+vhigh, med, 3Doors, morePerson, med, med, 
+Pacc|<vhigh, med, 3Doors, morePerson, med, med>) = 0.00021
+Punacc|<vhigh, med, 3Doors, morePerson, med, med>) = 0.00028
+Phan lop: unacc
+
+high, high, 2Doors, morePerson, med, med, 
+Pacc|<high, high, 2Doors, morePerson, med, med>) = 0.00018
+Punacc|<high, high, 2Doors, morePerson, med, med>) = 0.00033
+Phan lop: unacc
+
+med, low, 5Doors, morePerson, med, low, 
+Pacc|<med, low, 5Doors, morePerson, med, low>) = 0.00000
+Punacc|<med, low, 5Doors, morePerson, med, low>) = 0.00035
+Phan lop: unacc
+
+vhigh, vhigh, 2Doors, 4Persons, med, med, 
+Pacc|<vhigh, vhigh, 2Doors, 4Persons, med, med>) = 0.00010
+Punacc|<vhigh, vhigh, 2Doors, 4Persons, med, med>) = 0.00041
+Phan lop: unacc
+
+high, low, 3Doors, 4Persons, med, low, 
+Pacc|<high, low, 3Doors, 4Persons, med, low>) = 0.00000
+Punacc|<high, low, 3Doors, 4Persons, med, low>) = 0.00042
+Phan lop: unacc
+
+high, high, 3Doors, 4Persons, big, high, 
+Pacc|<high, high, 3Doors, 4Persons, big, high>) = 0.00038
+Punacc|<high, high, 3Doors, 4Persons, big, high>) = 0.00021
+Phan lop: acc
+
+med, med, 4Doors, 2Persons, small, high, 
+Pacc|<med, med, 4Doors, 2Persons, small, high>) = 0.00000
+Punacc|<med, med, 4Doors, 2Persons, small, high>) = 0.00035
+Phan lop: unacc
+
+high, high, 4Doors, 4Persons, big, high, 
+Pacc|<high, high, 4Doors, 4Persons, big, high>) = 0.00044
+Punacc|<high, high, 4Doors, 4Persons, big, high>) = 0.00021
+Phan lop: acc
+
+vhigh, low, 4Doors, morePerson, med, med, 
+Pacc|<vhigh, low, 4Doors, morePerson, med, med>) = 0.00023
+Punacc|<vhigh, low, 4Doors, morePerson, med, med>) = 0.00027
+Phan lop: unacc
+
+vhigh, low, 3Doors, 2Persons, small, med, 
+Pacc|<vhigh, low, 3Doors, 2Persons, small, med>) = 0.00000
+Punacc|<vhigh, low, 3Doors, 2Persons, small, med>) = 0.00055
+Phan lop: unacc
+
+high, high, 4Doors, 2Persons, med, low, 
+Pacc|<high, high, 4Doors, 2Persons, med, low>) = 0.00000
+Punacc|<high, high, 4Doors, 2Persons, med, low>) = 0.00088
+Phan lop: unacc
+
+vhigh, vhigh, 4Doors, morePerson, big, low, 
+Pacc|<vhigh, vhigh, 4Doors, morePerson, big, low>) = 0.00000
+Punacc|<vhigh, vhigh, 4Doors, morePerson, big, low>) = 0.00058
+Phan lop: unacc
+
+vhigh, low, 5Doors, 2Persons, small, med, 
+Pacc|<vhigh, low, 5Doors, 2Persons, small, med>) = 0.00000
+Punacc|<vhigh, low, 5Doors, 2Persons, small, med>) = 0.00052
+Phan lop: unacc
+
+low, low, 5Doors, 4Persons, big, low, 
+Pacc|<low, low, 5Doors, 4Persons, big, low>) = 0.00000
+Punacc|<low, low, 5Doors, 4Persons, big, low>) = 0.00030
+Phan lop: unacc
+
+low, high, 4Doors, morePerson, small, high, 
+Pacc|<low, high, 4Doors, morePerson, small, high>) = 0.00043
+Punacc|<low, high, 4Doors, morePerson, small, high>) = 0.00021
+Phan lop: acc
+
+low, med, 2Doors, morePerson, med, high, 
+Pacc|<low, med, 2Doors, morePerson, med, high>) = 0.00064
+Punacc|<low, med, 2Doors, morePerson, med, high>) = 0.00020
+Phan lop: acc
+
+vhigh, high, 5Doors, 4Persons, med, high, 
+Pacc|<vhigh, high, 5Doors, 4Persons, med, high>) = 0.00029
+Punacc|<vhigh, high, 5Doors, 4Persons, med, high>) = 0.00023
+Phan lop: acc
+
+low, high, 5Doors, morePerson, med, low, 
+Pacc|<low, high, 5Doors, morePerson, med, low>) = 0.00000
+Punacc|<low, high, 5Doors, morePerson, med, low>) = 0.00038
+Phan lop: unacc
+
+high, high, 4Doors, morePerson, small, high, 
+Pacc|<high, high, 4Doors, morePerson, small, high>) = 0.00023
+Punacc|<high, high, 4Doors, morePerson, small, high>) = 0.00025
+Phan lop: unacc
+
+high, high, 3Doors, 2Persons, big, high, 
+Pacc|<high, high, 3Doors, 2Persons, big, high>) = 0.00000
+Punacc|<high, high, 3Doors, 2Persons, big, high>) = 0.00040
+Phan lop: unacc
+
+med, vhigh, 2Doors, morePerson, small, med, 
+Pacc|<med, vhigh, 2Doors, morePerson, small, med>) = 0.00014
+Punacc|<med, vhigh, 2Doors, morePerson, small, med>) = 0.00036
+Phan lop: unacc
+
+med, low, 3Doors, morePerson, med, low, 
+Pacc|<med, low, 3Doors, morePerson, med, low>) = 0.00000
+Punacc|<med, low, 3Doors, morePerson, med, low>) = 0.00037
+Phan lop: unacc
+
+high, med, 2Doors, morePerson, med, high, 
+Pacc|<high, med, 2Doors, morePerson, med, high>) = 0.00034
+Punacc|<high, med, 2Doors, morePerson, med, high>) = 0.00024
+Phan lop: acc
+
+med, vhigh, 4Doors, 2Persons, small, low, 
+Pacc|<med, vhigh, 4Doors, 2Persons, small, low>) = 0.00000
+Punacc|<med, vhigh, 4Doors, 2Persons, small, low>) = 0.00097
+Phan lop: unacc
+
+high, med, 3Doors, 2Persons, med, low, 
+Pacc|<high, med, 3Doors, 2Persons, med, low>) = 0.00000
+Punacc|<high, med, 3Doors, 2Persons, med, low>) = 0.00080
+Phan lop: unacc
+
+med, vhigh, 5Doors, 2Persons, small, med, 
+Pacc|<med, vhigh, 5Doors, 2Persons, small, med>) = 0.00000
+Punacc|<med, vhigh, 5Doors, 2Persons, small, med>) = 0.00055
+Phan lop: unacc
+
+low, med, 2Doors, 4Persons, big, low, 
+Pacc|<low, med, 2Doors, 4Persons, big, low>) = 0.00000
+Punacc|<low, med, 2Doors, 4Persons, big, low>) = 0.00036
+Phan lop: unacc
+
+med, low, 2Doors, morePerson, med, high, 
+Pacc|<med, low, 2Doors, morePerson, med, high>) = 0.00049
+Punacc|<med, low, 2Doors, morePerson, med, high>) = 0.00020
+Phan lop: acc
+
+med, vhigh, 3Doors, 2Persons, med, high, 
+Pacc|<med, vhigh, 3Doors, 2Persons, med, high>) = 0.00000
+Punacc|<med, vhigh, 3Doors, 2Persons, med, high>) = 0.00043
+Phan lop: unacc
+
+high, med, 3Doors, morePerson, big, med, 
+Pacc|<high, med, 3Doors, morePerson, big, med>) = 0.00036
+Punacc|<high, med, 3Doors, morePerson, big, med>) = 0.00024
+Phan lop: acc
+
+high, vhigh, 2Doors, 4Persons, med, high, 
+Pacc|<high, vhigh, 2Doors, 4Persons, med, high>) = 0.00017
+Punacc|<high, vhigh, 2Doors, 4Persons, med, high>) = 0.00031
+Phan lop: unacc
+
+high, med, 3Doors, morePerson, med, high, 
+Pacc|<high, med, 3Doors, morePerson, med, high>) = 0.00036
+Punacc|<high, med, 3Doors, morePerson, med, high>) = 0.00021
+Phan lop: acc
+
+high, med, 5Doors, 2Persons, small, med, 
+Pacc|<high, med, 5Doors, 2Persons, small, med>) = 0.00000
+Punacc|<high, med, 5Doors, 2Persons, small, med>) = 0.00049
+Phan lop: unacc
+
+med, vhigh, 3Doors, morePerson, big, high, 
+Pacc|<med, vhigh, 3Doors, morePerson, big, high>) = 0.00034
+Punacc|<med, vhigh, 3Doors, morePerson, big, high>) = 0.00022
+Phan lop: acc
+
+high, low, 4Doors, morePerson, small, high, 
+Pacc|<high, low, 4Doors, morePerson, small, high>) = 0.00030
+Punacc|<high, low, 4Doors, morePerson, small, high>) = 0.00022
+Phan lop: acc
+
+vhigh, high, 2Doors, 4Persons, small, med, 
+Pacc|<vhigh, high, 2Doors, 4Persons, small, med>) = 0.00011
+Punacc|<vhigh, high, 2Doors, 4Persons, small, med>) = 0.00037
+Phan lop: unacc
+
+high, low, 3Doors, 4Persons, big, high, 
+Pacc|<high, low, 3Doors, 4Persons, big, high>) = 0.00050
+Punacc|<high, low, 3Doors, 4Persons, big, high>) = 0.00018
+Phan lop: acc
+
+low, vhigh, 3Doors, morePerson, med, med, 
+Pacc|<low, vhigh, 3Doors, morePerson, med, med>) = 0.00024
+Punacc|<low, vhigh, 3Doors, morePerson, med, med>) = 0.00029
+Phan lop: unacc
+
+vhigh, high, 4Doors, 4Persons, med, med, 
+Pacc|<vhigh, high, 4Doors, 4Persons, med, med>) = 0.00019
+Punacc|<vhigh, high, 4Doors, 4Persons, med, med>) = 0.00030
+Phan lop: unacc
+
+high, low, 2Doors, morePerson, small, high, 
+Pacc|<high, low, 2Doors, morePerson, small, high>) = 0.00024
+Punacc|<high, low, 2Doors, morePerson, small, high>) = 0.00026
+Phan lop: unacc
+
+high, med, 5Doors, morePerson, small, low, 
+Pacc|<high, med, 5Doors, morePerson, small, low>) = 0.00000
+Punacc|<high, med, 5Doors, morePerson, small, low>) = 0.00046
+Phan lop: unacc
+
+vhigh, vhigh, 4Doors, morePerson, small, low, 
+Pacc|<vhigh, vhigh, 4Doors, morePerson, small, low>) = 0.00000
+Punacc|<vhigh, vhigh, 4Doors, morePerson, small, low>) = 0.00069
+Phan lop: unacc
+
+med, low, 2Doors, 2Persons, big, low, 
+Pacc|<med, low, 2Doors, 2Persons, big, low>) = 0.00000
+Punacc|<med, low, 2Doors, 2Persons, big, low>) = 0.00069
+Phan lop: unacc
+
+high, high, 3Doors, morePerson, med, med, 
+Pacc|<high, high, 3Doors, morePerson, med, med>) = 0.00020
+Punacc|<high, high, 3Doors, morePerson, med, med>) = 0.00029
+Phan lop: unacc
+
+vhigh, vhigh, 4Doors, 4Persons, med, low, 
+Pacc|<vhigh, vhigh, 4Doors, 4Persons, med, low>) = 0.00000
+Punacc|<vhigh, vhigh, 4Doors, 4Persons, med, low>) = 0.00060
+Phan lop: unacc
+
+med, low, 4Doors, morePerson, small, high, 
+Pacc|<med, low, 4Doors, morePerson, small, high>) = 0.00046
+Punacc|<med, low, 4Doors, morePerson, small, high>) = 0.00019
+Phan lop: acc
+
+vhigh, vhigh, 3Doors, 4Persons, big, high, 
+Pacc|<vhigh, vhigh, 3Doors, 4Persons, big, high>) = 0.00018
+Punacc|<vhigh, vhigh, 3Doors, 4Persons, big, high>) = 0.00027
+Phan lop: unacc
+
+med, vhigh, 2Doors, 4Persons, big, high, 
+Pacc|<med, vhigh, 2Doors, 4Persons, big, high>) = 0.00034
+Punacc|<med, vhigh, 2Doors, 4Persons, big, high>) = 0.00024
+Phan lop: acc
+
+med, low, 3Doors, 2Persons, big, low, 
+Pacc|<med, low, 3Doors, 2Persons, big, low>) = 0.00000
+Punacc|<med, low, 3Doors, 2Persons, big, low>) = 0.00062
+Phan lop: unacc
+
+vhigh, high, 2Doors, 4Persons, med, med, 
+Pacc|<vhigh, high, 2Doors, 4Persons, med, med>) = 0.00015
+Punacc|<vhigh, high, 2Doors, 4Persons, med, med>) = 0.00034
+Phan lop: unacc
+
+med, high, 4Doors, 4Persons, med, high, 
+Pacc|<med, high, 4Doors, 4Persons, med, high>) = 0.00051
+Punacc|<med, high, 4Doors, 4Persons, med, high>) = 0.00019
+Phan lop: acc
+
+high, vhigh, 4Doors, 2Persons, med, med, 
+Pacc|<high, vhigh, 4Doors, 2Persons, med, med>) = 0.00000
+Punacc|<high, vhigh, 4Doors, 2Persons, med, med>) = 0.00062
+Phan lop: unacc
+
+high, low, 5Doors, morePerson, small, low, 
+Pacc|<high, low, 5Doors, morePerson, small, low>) = 0.00000
+Punacc|<high, low, 5Doors, morePerson, small, low>) = 0.00046
+Phan lop: unacc
+
+med, med, 3Doors, morePerson, small, high, 
+Pacc|<med, med, 3Doors, morePerson, small, high>) = 0.00042
+Punacc|<med, med, 3Doors, morePerson, small, high>) = 0.00020
+Phan lop: acc
+
+vhigh, med, 4Doors, 4Persons, small, low, 
+Pacc|<vhigh, med, 4Doors, 4Persons, small, low>) = 0.00000
+Punacc|<vhigh, med, 4Doors, 4Persons, small, low>) = 0.00049
+Phan lop: unacc
+
+med, vhigh, 2Doors, morePerson, med, low, 
+Pacc|<med, vhigh, 2Doors, morePerson, med, low>) = 0.00000
+Punacc|<med, vhigh, 2Doors, morePerson, med, low>) = 0.00056
+Phan lop: unacc
+
+med, high, 4Doors, morePerson, small, high, 
+Pacc|<med, high, 4Doors, morePerson, small, high>) = 0.00035
+Punacc|<med, high, 4Doors, morePerson, small, high>) = 0.00021
+Phan lop: acc
+
+vhigh, med, 5Doors, 2Persons, big, low, 
+Pacc|<vhigh, med, 5Doors, 2Persons, big, low>) = 0.00000
+Punacc|<vhigh, med, 5Doors, 2Persons, big, low>) = 0.00076
+Phan lop: unacc
+
+vhigh, med, 5Doors, morePerson, med, med, 
+Pacc|<vhigh, med, 5Doors, morePerson, med, med>) = 0.00028
+Punacc|<vhigh, med, 5Doors, morePerson, med, med>) = 0.00027
+Phan lop: acc
+
+med, med, 4Doors, 4Persons, med, high, 
+Pacc|<med, med, 4Doors, 4Persons, med, high>) = 0.00072
+Punacc|<med, med, 4Doors, 4Persons, med, high>) = 0.00017
+Phan lop: acc
+
+low, high, 4Doors, 2Persons, med, high, 
+Pacc|<low, high, 4Doors, 2Persons, med, high>) = 0.00000
+Punacc|<low, high, 4Doors, 2Persons, med, high>) = 0.00034
+Phan lop: unacc
+
+low, med, 2Doors, morePerson, small, med, 
+Pacc|<low, med, 2Doors, morePerson, small, med>) = 0.00037
+Punacc|<low, med, 2Doors, morePerson, small, med>) = 0.00026
+Phan lop: acc
+
+high, high, 2Doors, 4Persons, small, low, 
+Pacc|<high, high, 2Doors, 4Persons, small, low>) = 0.00000
+Punacc|<high, high, 2Doors, 4Persons, small, low>) = 0.00059
+Phan lop: unacc
+
+low, low, 5Doors, morePerson, small, high, 
+Pacc|<low, low, 5Doors, morePerson, small, high>) = 0.00068
+Punacc|<low, low, 5Doors, morePerson, small, high>) = 0.00018
+Phan lop: acc
+
+high, med, 4Doors, morePerson, small, low, 
+Pacc|<high, med, 4Doors, morePerson, small, low>) = 0.00000
+Punacc|<high, med, 4Doors, morePerson, small, low>) = 0.00048
+Phan lop: unacc
+
+low, med, 4Doors, 4Persons, small, low, 
+Pacc|<low, med, 4Doors, 4Persons, small, low>) = 0.00000
+Punacc|<low, med, 4Doors, 4Persons, small, low>) = 0.00037
+Phan lop: unacc
+
+vhigh, vhigh, 4Doors, morePerson, small, med, 
+Pacc|<vhigh, vhigh, 4Doors, morePerson, small, med>) = 0.00008
+Punacc|<vhigh, vhigh, 4Doors, morePerson, small, med>) = 0.00041
+Phan lop: unacc
+
+low, med, 5Doors, 4Persons, small, med, 
+Pacc|<low, med, 5Doors, 4Persons, small, med>) = 0.00060
+Punacc|<low, med, 5Doors, 4Persons, small, med>) = 0.00021
+Phan lop: acc
+
+vhigh, high, 3Doors, 2Persons, big, high, 
+Pacc|<vhigh, high, 3Doors, 2Persons, big, high>) = 0.00000
+Punacc|<vhigh, high, 3Doors, 2Persons, big, high>) = 0.00043
+Phan lop: unacc
+
+med, vhigh, 5Doors, 2Persons, big, high, 
+Pacc|<med, vhigh, 5Doors, 2Persons, big, high>) = 0.00000
+Punacc|<med, vhigh, 5Doors, 2Persons, big, high>) = 0.00038
+Phan lop: unacc
+
+high, med, 2Doors, morePerson, med, med, 
+Pacc|<high, med, 2Doors, morePerson, med, med>) = 0.00025
+Punacc|<high, med, 2Doors, morePerson, med, med>) = 0.00030
+Phan lop: unacc
+
+vhigh, high, 4Doors, 2Persons, med, med, 
+Pacc|<vhigh, high, 4Doors, 2Persons, med, med>) = 0.00000
+Punacc|<vhigh, high, 4Doors, 2Persons, med, med>) = 0.00056
+Phan lop: unacc
+
+high, vhigh, 2Doors, morePerson, med, low, 
+Pacc|<high, vhigh, 2Doors, morePerson, med, low>) = 0.00000
+Punacc|<high, vhigh, 2Doors, morePerson, med, low>) = 0.00067
+Phan lop: unacc
+
+low, low, 2Doors, 2Persons, med, high, 
+Pacc|<low, low, 2Doors, 2Persons, med, high>) = 0.00000
+Punacc|<low, low, 2Doors, 2Persons, med, high>) = 0.00035
+Phan lop: unacc
+
+vhigh, high, 4Doors, 4Persons, med, low, 
+Pacc|<vhigh, high, 4Doors, 4Persons, med, low>) = 0.00000
+Punacc|<vhigh, high, 4Doors, 4Persons, med, low>) = 0.00050
+Phan lop: unacc
+
+high, high, 2Doors, 2Persons, small, med, 
+Pacc|<high, high, 2Doors, 2Persons, small, med>) = 0.00000
+Punacc|<high, high, 2Doors, 2Persons, small, med>) = 0.00066
+Phan lop: unacc
+
+high, high, 2Doors, morePerson, big, med, 
+Pacc|<high, high, 2Doors, morePerson, big, med>) = 0.00024
+Punacc|<high, high, 2Doors, morePerson, big, med>) = 0.00031
+Phan lop: unacc
+
+vhigh, high, 3Doors, 4Persons, small, low, 
+Pacc|<vhigh, high, 3Doors, 4Persons, small, low>) = 0.00000
+Punacc|<vhigh, high, 3Doors, 4Persons, small, low>) = 0.00056
+Phan lop: unacc
+
+med, high, 4Doors, morePerson, big, med, 
+Pacc|<med, high, 4Doors, morePerson, big, med>) = 0.00046
+Punacc|<med, high, 4Doors, morePerson, big, med>) = 0.00022
+Phan lop: acc
+
+vhigh, vhigh, 5Doors, 4Persons, med, low, 
+Pacc|<vhigh, vhigh, 5Doors, 4Persons, med, low>) = 0.00000
+Punacc|<vhigh, vhigh, 5Doors, 4Persons, med, low>) = 0.00058
+Phan lop: unacc
+
+med, low, 4Doors, 4Persons, med, high, 
+Pacc|<med, low, 4Doors, 4Persons, med, high>) = 0.00068
+Punacc|<med, low, 4Doors, 4Persons, med, high>) = 0.00016
+Phan lop: acc
+
+low, low, 2Doors, morePerson, small, med, 
+Pacc|<low, low, 2Doors, morePerson, small, med>) = 0.00035
+Punacc|<low, low, 2Doors, morePerson, small, med>) = 0.00026
+Phan lop: acc
+
+med, med, 4Doors, 4Persons, med, med, 
+Pacc|<med, med, 4Doors, 4Persons, med, med>) = 0.00055
+Punacc|<med, med, 4Doors, 4Persons, med, med>) = 0.00021
+Phan lop: acc
+
+med, high, 5Doors, morePerson, small, med, 
+Pacc|<med, high, 5Doors, morePerson, small, med>) = 0.00031
+Punacc|<med, high, 5Doors, morePerson, small, med>) = 0.00026
+Phan lop: acc
+
+vhigh, vhigh, 2Doors, 2Persons, big, high, 
+Pacc|<vhigh, vhigh, 2Doors, 2Persons, big, high>) = 0.00000
+Punacc|<vhigh, vhigh, 2Doors, 2Persons, big, high>) = 0.00057
+Phan lop: unacc
+
+high, med, 3Doors, morePerson, med, med, 
+Pacc|<high, med, 3Doors, morePerson, med, med>) = 0.00028
+Punacc|<high, med, 3Doors, morePerson, med, med>) = 0.00026
+Phan lop: acc
+
+low, high, 3Doors, 4Persons, small, med, 
+Pacc|<low, high, 3Doors, 4Persons, small, med>) = 0.00031
+Punacc|<low, high, 3Doors, 4Persons, small, med>) = 0.00025
+Phan lop: acc
+
+high, vhigh, 5Doors, 4Persons, small, high, 
+Pacc|<high, vhigh, 5Doors, 4Persons, small, high>) = 0.00019
+Punacc|<high, vhigh, 5Doors, 4Persons, small, high>) = 0.00028
+Phan lop: unacc
+
+med, vhigh, 2Doors, 2Persons, big, low, 
+Pacc|<med, vhigh, 2Doors, 2Persons, big, low>) = 0.00000
+Punacc|<med, vhigh, 2Doors, 2Persons, big, low>) = 0.00094
+Phan lop: unacc
+
+high, low, 2Doors, 2Persons, small, high, 
+Pacc|<high, low, 2Doors, 2Persons, small, high>) = 0.00000
+Punacc|<high, low, 2Doors, 2Persons, small, high>) = 0.00047
+Phan lop: unacc
+
+high, med, 2Doors, 2Persons, big, med, 
+Pacc|<high, med, 2Doors, 2Persons, big, med>) = 0.00000
+Punacc|<high, med, 2Doors, 2Persons, big, med>) = 0.00050
+Phan lop: unacc
+
+high, low, 4Doors, 4Persons, small, high, 
+Pacc|<high, low, 4Doors, 4Persons, small, high>) = 0.00033
+Punacc|<high, low, 4Doors, 4Persons, small, high>) = 0.00021
+Phan lop: acc
+
+med, vhigh, 2Doors, morePerson, big, high, 
+Pacc|<med, vhigh, 2Doors, morePerson, big, high>) = 0.00031
+Punacc|<med, vhigh, 2Doors, morePerson, big, high>) = 0.00025
+Phan lop: acc
+
+vhigh, med, 4Doors, morePerson, med, high, 
+Pacc|<vhigh, med, 4Doors, morePerson, med, high>) = 0.00032
+Punacc|<vhigh, med, 4Doors, morePerson, med, high>) = 0.00022
+Phan lop: acc
+
+low, med, 2Doors, morePerson, big, low, 
+Pacc|<low, med, 2Doors, morePerson, big, low>) = 0.00000
+Punacc|<low, med, 2Doors, morePerson, big, low>) = 0.00038
+Phan lop: unacc
+
+vhigh, med, 3Doors, 2Persons, big, high, 
+Pacc|<vhigh, med, 3Doors, 2Persons, big, high>) = 0.00000
+Punacc|<vhigh, med, 3Doors, 2Persons, big, high>) = 0.00038
+Phan lop: unacc
+
+high, vhigh, 3Doors, morePerson, small, med, 
+Pacc|<high, vhigh, 3Doors, morePerson, small, med>) = 0.00010
+Punacc|<high, vhigh, 3Doors, morePerson, small, med>) = 0.00038
+Phan lop: unacc
+
+med, vhigh, 2Doors, 4Persons, med, med, 
+Pacc|<med, vhigh, 2Doors, 4Persons, med, med>) = 0.00020
+Punacc|<med, vhigh, 2Doors, 4Persons, med, med>) = 0.00032
+Phan lop: unacc
+
+low, low, 2Doors, 2Persons, big, high, 
+Pacc|<low, low, 2Doors, 2Persons, big, high>) = 0.00000
+Punacc|<low, low, 2Doors, 2Persons, big, high>) = 0.00032
+Phan lop: unacc
+
+high, low, 4Doors, morePerson, med, med, 
+Pacc|<high, low, 4Doors, morePerson, med, med>) = 0.00030
+Punacc|<high, low, 4Doors, morePerson, med, med>) = 0.00025
+Phan lop: acc
+
+vhigh, high, 3Doors, 2Persons, med, med, 
+Pacc|<vhigh, high, 3Doors, 2Persons, med, med>) = 0.00000
+Punacc|<vhigh, high, 3Doors, 2Persons, med, med>) = 0.00057
+Phan lop: unacc
+
+vhigh, high, 4Doors, 2Persons, med, low, 
+Pacc|<vhigh, high, 4Doors, 2Persons, med, low>) = 0.00000
+Punacc|<vhigh, high, 4Doors, 2Persons, med, low>) = 0.00094
+Phan lop: unacc
+
+med, high, 4Doors, morePerson, med, high, 
+Pacc|<med, high, 4Doors, morePerson, med, high>) = 0.00046
+Punacc|<med, high, 4Doors, morePerson, med, high>) = 0.00020
+Phan lop: acc
+
+med, low, 3Doors, morePerson, big, med, 
+Pacc|<med, low, 3Doors, morePerson, big, med>) = 0.00052
+Punacc|<med, low, 3Doors, morePerson, big, med>) = 0.00020
+Phan lop: acc
+
+vhigh, high, 4Doors, morePerson, small, low, 
+Pacc|<vhigh, high, 4Doors, morePerson, small, low>) = 0.00000
+Punacc|<vhigh, high, 4Doors, morePerson, small, low>) = 0.00057
+Phan lop: unacc
+
+high, med, 4Doors, 4Persons, small, low, 
+Pacc|<high, med, 4Doors, 4Persons, small, low>) = 0.00000
+Punacc|<high, med, 4Doors, 4Persons, small, low>) = 0.00046
+Phan lop: unacc
+
+med, low, 4Doors, morePerson, big, low, 
+Pacc|<med, low, 4Doors, morePerson, big, low>) = 0.00000
+Punacc|<med, low, 4Doors, morePerson, big, low>) = 0.00033
+Phan lop: unacc
+
+med, med, 4Doors, 4Persons, small, high, 
+Pacc|<med, med, 4Doors, 4Persons, small, high>) = 0.00055
+Punacc|<med, med, 4Doors, 4Persons, small, high>) = 0.00018
+Phan lop: acc
+
+low, vhigh, 2Doors, 2Persons, small, high, 
+Pacc|<low, vhigh, 2Doors, 2Persons, small, high>) = 0.00000
+Punacc|<low, vhigh, 2Doors, 2Persons, small, high>) = 0.00052
+Phan lop: unacc
+
+vhigh, med, 2Doors, 4Persons, med, low, 
+Pacc|<vhigh, med, 2Doors, 4Persons, med, low>) = 0.00000
+Punacc|<vhigh, med, 2Doors, 4Persons, med, low>) = 0.00051
+Phan lop: unacc
+
+vhigh, low, 3Doors, 4Persons, med, high, 
+Pacc|<vhigh, low, 3Doors, 4Persons, med, high>) = 0.00029
+Punacc|<vhigh, low, 3Doors, 4Persons, med, high>) = 0.00021
+Phan lop: acc
+
+med, vhigh, 5Doors, 2Persons, med, low, 
+Pacc|<med, vhigh, 5Doors, 2Persons, med, low>) = 0.00000
+Punacc|<med, vhigh, 5Doors, 2Persons, med, low>) = 0.00086
+Phan lop: unacc
+
+low, high, 3Doors, 4Persons, big, low, 
+Pacc|<low, high, 3Doors, 4Persons, big, low>) = 0.00000
+Punacc|<low, high, 3Doors, 4Persons, big, low>) = 0.00036
+Phan lop: unacc
+
+med, low, 2Doors, morePerson, med, med, 
+Pacc|<med, low, 2Doors, morePerson, med, med>) = 0.00037
+Punacc|<med, low, 2Doors, morePerson, med, med>) = 0.00025
+Phan lop: acc
+
+med, vhigh, 2Doors, morePerson, med, high, 
+Pacc|<med, vhigh, 2Doors, morePerson, med, high>) = 0.00024
+Punacc|<med, vhigh, 2Doors, morePerson, med, high>) = 0.00027
+Phan lop: unacc
+
+med, high, 5Doors, morePerson, big, med, 
+Pacc|<med, high, 5Doors, morePerson, big, med>) = 0.00053
+Punacc|<med, high, 5Doors, morePerson, big, med>) = 0.00022
+Phan lop: acc
+
+low, low, 4Doors, 4Persons, small, low, 
+Pacc|<low, low, 4Doors, 4Persons, small, low>) = 0.00000
+Punacc|<low, low, 4Doors, 4Persons, small, low>) = 0.00037
+Phan lop: unacc
+
+high, high, 3Doors, 2Persons, small, high, 
+Pacc|<high, high, 3Doors, 2Persons, small, high>) = 0.00000
+Punacc|<high, high, 3Doors, 2Persons, small, high>) = 0.00047
+Phan lop: unacc
+
+med, low, 3Doors, morePerson, med, high, 
+Pacc|<med, low, 3Doors, morePerson, med, high>) = 0.00053
+Punacc|<med, low, 3Doors, morePerson, med, high>) = 0.00018
+Phan lop: acc
+
+vhigh, low, 3Doors, morePerson, med, med, 
+Pacc|<vhigh, low, 3Doors, morePerson, med, med>) = 0.00020
+Punacc|<vhigh, low, 3Doors, morePerson, med, med>) = 0.00028
+Phan lop: unacc
+
+vhigh, high, 5Doors, 2Persons, big, med, 
+Pacc|<vhigh, high, 5Doors, 2Persons, big, med>) = 0.00000
+Punacc|<vhigh, high, 5Doors, 2Persons, big, med>) = 0.00050
+Phan lop: unacc
+
+high, med, 5Doors, morePerson, small, med, 
+Pacc|<high, med, 5Doors, morePerson, small, med>) = 0.00028
+Punacc|<high, med, 5Doors, morePerson, small, med>) = 0.00027
+Phan lop: acc
+
+high, vhigh, 3Doors, 2Persons, big, med, 
+Pacc|<high, vhigh, 3Doors, 2Persons, big, med>) = 0.00000
+Punacc|<high, vhigh, 3Doors, 2Persons, big, med>) = 0.00059
+Phan lop: unacc
+
+low, med, 5Doors, morePerson, small, high, 
+Pacc|<low, med, 5Doors, morePerson, small, high>) = 0.00072
+Punacc|<low, med, 5Doors, morePerson, small, high>) = 0.00018
+Phan lop: acc
+
+med, med, 2Doors, 4Persons, med, high, 
+Pacc|<med, med, 2Doors, 4Persons, med, high>) = 0.00057
+Punacc|<med, med, 2Doors, 4Persons, med, high>) = 0.00019
+Phan lop: acc
+
+med, vhigh, 2Doors, 4Persons, small, high, 
+Pacc|<med, vhigh, 2Doors, 4Persons, small, high>) = 0.00020
+Punacc|<med, vhigh, 2Doors, 4Persons, small, high>) = 0.00028
+Phan lop: unacc
+
+high, med, 2Doors, 2Persons, small, med, 
+Pacc|<high, med, 2Doors, 2Persons, small, med>) = 0.00000
+Punacc|<high, med, 2Doors, 2Persons, small, med>) = 0.00059
+Phan lop: unacc
+
+low, med, 2Doors, morePerson, small, low, 
+Pacc|<low, med, 2Doors, morePerson, small, low>) = 0.00000
+Punacc|<low, med, 2Doors, morePerson, small, low>) = 0.00045
+Phan lop: unacc
+
+med, med, 5Doors, 4Persons, big, low, 
+Pacc|<med, med, 5Doors, 4Persons, big, low>) = 0.00000
+Punacc|<med, med, 5Doors, 4Persons, big, low>) = 0.00031
+Phan lop: unacc
+
+low, low, 4Doors, morePerson, small, low, 
+Pacc|<low, low, 4Doors, morePerson, small, low>) = 0.00000
+Punacc|<low, low, 4Doors, morePerson, small, low>) = 0.00038
+Phan lop: unacc
+
+low, high, 5Doors, 2Persons, small, low, 
+Pacc|<low, high, 5Doors, 2Persons, small, low>) = 0.00000
+Punacc|<low, high, 5Doors, 2Persons, small, low>) = 0.00076
+Phan lop: unacc
+
+vhigh, low, 2Doors, 4Persons, small, low, 
+Pacc|<vhigh, low, 2Doors, 4Persons, small, low>) = 0.00000
+Punacc|<vhigh, low, 2Doors, 4Persons, small, low>) = 0.00056
+Phan lop: unacc
+
+med, vhigh, 4Doors, morePerson, small, high, 
+Pacc|<med, vhigh, 4Doors, morePerson, small, high>) = 0.00023
+Punacc|<med, vhigh, 4Doors, morePerson, small, high>) = 0.00026
+Phan lop: unacc
+
+med, vhigh, 3Doors, 4Persons, big, high, 
+Pacc|<med, vhigh, 3Doors, 4Persons, big, high>) = 0.00038
+Punacc|<med, vhigh, 3Doors, 4Persons, big, high>) = 0.00021
+Phan lop: acc
+
+med, low, 4Doors, 4Persons, big, high, 
+Pacc|<med, low, 4Doors, 4Persons, big, high>) = 0.00089
+Punacc|<med, low, 4Doors, 4Persons, big, high>) = 0.00015
+Phan lop: acc
+
+vhigh, low, 4Doors, 2Persons, small, low, 
+Pacc|<vhigh, low, 4Doors, 2Persons, small, low>) = 0.00000
+Punacc|<vhigh, low, 4Doors, 2Persons, small, low>) = 0.00091
+Phan lop: unacc
+
+high, vhigh, 5Doors, morePerson, big, low, 
+Pacc|<high, vhigh, 5Doors, morePerson, big, low>) = 0.00000
+Punacc|<high, vhigh, 5Doors, morePerson, big, low>) = 0.00052
+Phan lop: unacc
+
+high, med, 4Doors, 2Persons, big, high, 
+Pacc|<high, med, 4Doors, 2Persons, big, high>) = 0.00000
+Punacc|<high, med, 4Doors, 2Persons, big, high>) = 0.00035
+Phan lop: unacc
+
+med, high, 4Doors, 2Persons, med, med, 
+Pacc|<med, high, 4Doors, 2Persons, med, med>) = 0.00000
+Punacc|<med, high, 4Doors, 2Persons, med, med>) = 0.00044
+Phan lop: unacc
+
+low, low, 2Doors, 4Persons, med, high, 
+Pacc|<low, low, 2Doors, 4Persons, med, high>) = 0.00067
+Punacc|<low, low, 2Doors, 4Persons, med, high>) = 0.00018
+Phan lop: acc
+
+low, low, 4Doors, 2Persons, med, med, 
+Pacc|<low, low, 4Doors, 2Persons, med, med>) = 0.00000
+Punacc|<low, low, 4Doors, 2Persons, med, med>) = 0.00037
+Phan lop: unacc
+
+med, high, 4Doors, 2Persons, big, high, 
+Pacc|<med, high, 4Doors, 2Persons, big, high>) = 0.00000
+Punacc|<med, high, 4Doors, 2Persons, big, high>) = 0.00033
+Phan lop: unacc
+
+med, high, 3Doors, 2Persons, small, low, 
+Pacc|<med, high, 3Doors, 2Persons, small, low>) = 0.00000
+Punacc|<med, high, 3Doors, 2Persons, small, low>) = 0.00083
+Phan lop: unacc
+
+vhigh, med, 3Doors, 4Persons, med, med, 
+Pacc|<vhigh, med, 3Doors, 4Persons, med, med>) = 0.00023
+Punacc|<vhigh, med, 3Doors, 4Persons, med, med>) = 0.00027
+Phan lop: unacc
+
+low, high, 4Doors, morePerson, med, low, 
+Pacc|<low, high, 4Doors, morePerson, med, low>) = 0.00000
+Punacc|<low, high, 4Doors, morePerson, med, low>) = 0.00040
+Phan lop: unacc
+
+med, vhigh, 3Doors, 4Persons, med, high, 
+Pacc|<med, vhigh, 3Doors, 4Persons, med, high>) = 0.00029
+Punacc|<med, vhigh, 3Doors, 4Persons, med, high>) = 0.00023
+Phan lop: acc
+
+vhigh, med, 5Doors, 2Persons, small, low, 
+Pacc|<vhigh, med, 5Doors, 2Persons, small, low>) = 0.00000
+Punacc|<vhigh, med, 5Doors, 2Persons, small, low>) = 0.00090
+Phan lop: unacc
+
+low, vhigh, 3Doors, 2Persons, big, low, 
+Pacc|<low, vhigh, 3Doors, 2Persons, big, low>) = 0.00000
+Punacc|<low, vhigh, 3Doors, 2Persons, big, low>) = 0.00081
+Phan lop: unacc
+
+med, low, 3Doors, morePerson, big, low, 
+Pacc|<med, low, 3Doors, morePerson, big, low>) = 0.00000
+Punacc|<med, low, 3Doors, morePerson, big, low>) = 0.00034
+Phan lop: unacc
+
+vhigh, high, 3Doors, 4Persons, big, high, 
+Pacc|<vhigh, high, 3Doors, 4Persons, big, high>) = 0.00028
+Punacc|<vhigh, high, 3Doors, 4Persons, big, high>) = 0.00022
+Phan lop: acc
+
+med, high, 2Doors, 4Persons, med, med, 
+Pacc|<med, high, 2Doors, 4Persons, med, med>) = 0.00031
+Punacc|<med, high, 2Doors, 4Persons, med, med>) = 0.00027
+Phan lop: acc
+
+high, low, 5Doors, 4Persons, med, med, 
+Pacc|<high, low, 5Doors, 4Persons, med, med>) = 0.00039
+Punacc|<high, low, 5Doors, 4Persons, med, med>) = 0.00023
+Phan lop: acc
+
+low, high, 5Doors, morePerson, big, low, 
+Pacc|<low, high, 5Doors, morePerson, big, low>) = 0.00000
+Punacc|<low, high, 5Doors, morePerson, big, low>) = 0.00036
+Phan lop: unacc
+
+high, med, 3Doors, morePerson, med, low, 
+Pacc|<high, med, 3Doors, morePerson, med, low>) = 0.00000
+Punacc|<high, med, 3Doors, morePerson, med, low>) = 0.00044
+Phan lop: unacc
+
+med, low, 3Doors, 4Persons, small, high, 
+Pacc|<med, low, 3Doors, 4Persons, small, high>) = 0.00044
+Punacc|<med, low, 3Doors, 4Persons, small, high>) = 0.00018
+Phan lop: acc
+
+vhigh, high, 4Doors, 2Persons, small, low, 
+Pacc|<vhigh, high, 4Doors, 2Persons, small, low>) = 0.00000
+Punacc|<vhigh, high, 4Doors, 2Persons, small, low>) = 0.00104
+Phan lop: unacc
+
+low, low, 2Doors, 2Persons, small, high, 
+Pacc|<low, low, 2Doors, 2Persons, small, high>) = 0.00000
+Punacc|<low, low, 2Doors, 2Persons, small, high>) = 0.00038
+Phan lop: unacc
+
+med, low, 4Doors, morePerson, med, low, 
+Pacc|<med, low, 4Doors, morePerson, med, low>) = 0.00000
+Punacc|<med, low, 4Doors, morePerson, med, low>) = 0.00036
+Phan lop: unacc
+
+vhigh, med, 2Doors, 2Persons, med, low, 
+Pacc|<vhigh, med, 2Doors, 2Persons, med, low>) = 0.00000
+Punacc|<vhigh, med, 2Doors, 2Persons, med, low>) = 0.00097
+Phan lop: unacc
+
+high, high, 3Doors, morePerson, med, high, 
+Pacc|<high, high, 3Doors, morePerson, med, high>) = 0.00026
+Punacc|<high, high, 3Doors, morePerson, med, high>) = 0.00024
+Phan lop: acc
+
+vhigh, vhigh, 3Doors, 2Persons, med, high, 
+Pacc|<vhigh, vhigh, 3Doors, 2Persons, med, high>) = 0.00000
+Punacc|<vhigh, vhigh, 3Doors, 2Persons, med, high>) = 0.00055
+Phan lop: unacc
+
+med, vhigh, 5Doors, morePerson, med, low, 
+Pacc|<med, vhigh, 5Doors, morePerson, med, low>) = 0.00000
+Punacc|<med, vhigh, 5Doors, morePerson, med, low>) = 0.00047
+Phan lop: unacc
+
+high, med, 3Doors, 4Persons, big, med, 
+Pacc|<high, med, 3Doors, 4Persons, big, med>) = 0.00040
+Punacc|<high, med, 3Doors, 4Persons, big, med>) = 0.00023
+Phan lop: acc
+
+med, vhigh, 3Doors, 2Persons, big, med, 
+Pacc|<med, vhigh, 3Doors, 2Persons, big, med>) = 0.00000
+Punacc|<med, vhigh, 3Doors, 2Persons, big, med>) = 0.00049
+Phan lop: unacc
+
+med, vhigh, 3Doors, 4Persons, small, med, 
+Pacc|<med, vhigh, 3Doors, 4Persons, small, med>) = 0.00016
+Punacc|<med, vhigh, 3Doors, 4Persons, small, med>) = 0.00031
+Phan lop: unacc
+
+high, low, 3Doors, 2Persons, big, low, 
+Pacc|<high, low, 3Doors, 2Persons, big, low>) = 0.00000
+Punacc|<high, low, 3Doors, 2Persons, big, low>) = 0.00073
+Phan lop: unacc
+
+vhigh, low, 5Doors, 2Persons, small, high, 
+Pacc|<vhigh, low, 5Doors, 2Persons, small, high>) = 0.00000
+Punacc|<vhigh, low, 5Doors, 2Persons, small, high>) = 0.00042
+Phan lop: unacc
+
+med, high, 4Doors, 4Persons, big, low, 
+Pacc|<med, high, 4Doors, 4Persons, big, low>) = 0.00000
+Punacc|<med, high, 4Doors, 4Persons, big, low>) = 0.00036
+Phan lop: unacc
+
+high, high, 5Doors, morePerson, med, med, 
+Pacc|<high, high, 5Doors, morePerson, med, med>) = 0.00026
+Punacc|<high, high, 5Doors, morePerson, med, med>) = 0.00028
+Phan lop: unacc
+
+low, low, 3Doors, 4Persons, med, med, 
+Pacc|<low, low, 3Doors, 4Persons, med, med>) = 0.00055
+Punacc|<low, low, 3Doors, 4Persons, med, med>) = 0.00020
+Phan lop: acc
+
+med, vhigh, 3Doors, 2Persons, med, med, 
+Pacc|<med, vhigh, 3Doors, 2Persons, med, med>) = 0.00000
+Punacc|<med, vhigh, 3Doors, 2Persons, med, med>) = 0.00053
+Phan lop: unacc
+
+vhigh, low, 4Doors, 4Persons, big, low, 
+Pacc|<vhigh, low, 4Doors, 4Persons, big, low>) = 0.00000
+Punacc|<vhigh, low, 4Doors, 4Persons, big, low>) = 0.00041
+Phan lop: unacc
+
+high, low, 5Doors, 2Persons, big, med, 
+Pacc|<high, low, 5Doors, 2Persons, big, med>) = 0.00000
+Punacc|<high, low, 5Doors, 2Persons, big, med>) = 0.00041
+Phan lop: unacc
+
+high, med, 2Doors, 2Persons, small, high, 
+Pacc|<high, med, 2Doors, 2Persons, small, high>) = 0.00000
+Punacc|<high, med, 2Doors, 2Persons, small, high>) = 0.00047
+Phan lop: unacc
+
+high, vhigh, 4Doors, morePerson, med, high, 
+Pacc|<high, vhigh, 4Doors, morePerson, med, high>) = 0.00019
+Punacc|<high, vhigh, 4Doors, morePerson, med, high>) = 0.00028
+Phan lop: unacc
+
+med, high, 2Doors, 2Persons, small, high, 
+Pacc|<med, high, 2Doors, 2Persons, small, high>) = 0.00000
+Punacc|<med, high, 2Doors, 2Persons, small, high>) = 0.00044
+Phan lop: unacc
+
+high, med, 3Doors, 2Persons, med, high, 
+Pacc|<high, med, 3Doors, 2Persons, med, high>) = 0.00000
+Punacc|<high, med, 3Doors, 2Persons, med, high>) = 0.00038
+Phan lop: unacc
+
+vhigh, high, 5Doors, morePerson, med, high, 
+Pacc|<vhigh, high, 5Doors, morePerson, med, high>) = 0.00027
+Punacc|<vhigh, high, 5Doors, morePerson, med, high>) = 0.00024
+Phan lop: acc
+
+high, low, 2Doors, 4Persons, med, high, 
+Pacc|<high, low, 2Doors, 4Persons, med, high>) = 0.00035
+Punacc|<high, low, 2Doors, 4Persons, med, high>) = 0.00023
+Phan lop: acc
+
+high, low, 3Doors, 4Persons, big, low, 
+Pacc|<high, low, 3Doors, 4Persons, big, low>) = 0.00000
+Punacc|<high, low, 3Doors, 4Persons, big, low>) = 0.00039
+Phan lop: unacc
+
+low, med, 4Doors, 2Persons, med, med, 
+Pacc|<low, med, 4Doors, 2Persons, med, med>) = 0.00000
+Punacc|<low, med, 4Doors, 2Persons, med, med>) = 0.00038
+Phan lop: unacc
+
+vhigh, med, 4Doors, morePerson, med, med, 
+Pacc|<vhigh, med, 4Doors, morePerson, med, med>) = 0.00024
+Punacc|<vhigh, med, 4Doors, morePerson, med, med>) = 0.00028
+Phan lop: unacc
+
+low, med, 2Doors, 2Persons, med, med, 
+Pacc|<low, med, 2Doors, 2Persons, med, med>) = 0.00000
+Punacc|<low, med, 2Doors, 2Persons, med, med>) = 0.00044
+Phan lop: unacc
+
+low, high, 2Doors, 4Persons, med, low, 
+Pacc|<low, high, 2Doors, 4Persons, med, low>) = 0.00000
+Punacc|<low, high, 2Doors, 4Persons, med, low>) = 0.00044
+Phan lop: unacc
+
+high, vhigh, 5Doors, 2Persons, small, high, 
+Pacc|<high, vhigh, 5Doors, 2Persons, small, high>) = 0.00000
+Punacc|<high, vhigh, 5Doors, 2Persons, small, high>) = 0.00053
+Phan lop: unacc
+
+vhigh, low, 4Doors, 2Persons, med, high, 
+Pacc|<vhigh, low, 4Doors, 2Persons, med, high>) = 0.00000
+Punacc|<vhigh, low, 4Doors, 2Persons, med, high>) = 0.00040
+Phan lop: unacc
+
+low, low, 4Doors, 4Persons, med, low, 
+Pacc|<low, low, 4Doors, 4Persons, med, low>) = 0.00000
+Punacc|<low, low, 4Doors, 4Persons, med, low>) = 0.00033
+Phan lop: unacc
+
+med, high, 2Doors, 2Persons, med, high, 
+Pacc|<med, high, 2Doors, 2Persons, med, high>) = 0.00000
+Punacc|<med, high, 2Doors, 2Persons, med, high>) = 0.00041
+Phan lop: unacc
+
+med, low, 2Doors, morePerson, med, low, 
+Pacc|<med, low, 2Doors, morePerson, med, low>) = 0.00000
+Punacc|<med, low, 2Doors, morePerson, med, low>) = 0.00042
+Phan lop: unacc
+
+vhigh, high, 2Doors, morePerson, med, high, 
+Pacc|<vhigh, high, 2Doors, morePerson, med, high>) = 0.00018
+Punacc|<vhigh, high, 2Doors, morePerson, med, high>) = 0.00029
+Phan lop: unacc
+
+low, low, 4Doors, 2Persons, big, low, 
+Pacc|<low, low, 4Doors, 2Persons, big, low>) = 0.00000
+Punacc|<low, low, 4Doors, 2Persons, big, low>) = 0.00059
+Phan lop: unacc
+
+med, vhigh, 5Doors, morePerson, small, low, 
+Pacc|<med, vhigh, 5Doors, morePerson, small, low>) = 0.00000
+Punacc|<med, vhigh, 5Doors, morePerson, small, low>) = 0.00052
+Phan lop: unacc
+
+vhigh, high, 3Doors, 2Persons, small, med, 
+Pacc|<vhigh, high, 3Doors, 2Persons, small, med>) = 0.00000
+Punacc|<vhigh, high, 3Doors, 2Persons, small, med>) = 0.00062
+Phan lop: unacc
+
+vhigh, med, 5Doors, 2Persons, small, high, 
+Pacc|<vhigh, med, 5Doors, 2Persons, small, high>) = 0.00000
+Punacc|<vhigh, med, 5Doors, 2Persons, small, high>) = 0.00043
+Phan lop: unacc
+
+vhigh, low, 5Doors, 2Persons, big, med, 
+Pacc|<vhigh, low, 5Doors, 2Persons, big, med>) = 0.00000
+Punacc|<vhigh, low, 5Doors, 2Persons, big, med>) = 0.00044
+Phan lop: unacc
+
+low, high, 3Doors, 4Persons, med, med, 
+Pacc|<low, high, 3Doors, 4Persons, med, med>) = 0.00042
+Punacc|<low, high, 3Doors, 4Persons, med, med>) = 0.00023
+Phan lop: acc
+
+low, med, 5Doors, 4Persons, med, low, 
+Pacc|<low, med, 5Doors, 4Persons, med, low>) = 0.00000
+Punacc|<low, med, 5Doors, 4Persons, med, low>) = 0.00033
+Phan lop: unacc
+
+med, high, 4Doors, 4Persons, big, med, 
+Pacc|<med, high, 4Doors, 4Persons, big, med>) = 0.00051
+Punacc|<med, high, 4Doors, 4Persons, big, med>) = 0.00021
+Phan lop: acc
+
+vhigh, high, 5Doors, 4Persons, small, med, 
+Pacc|<vhigh, high, 5Doors, 4Persons, small, med>) = 0.00017
+Punacc|<vhigh, high, 5Doors, 4Persons, small, med>) = 0.00031
+Phan lop: unacc
+
+low, med, 3Doors, morePerson, big, med, 
+Pacc|<low, med, 3Doors, morePerson, big, med>) = 0.00069
+Punacc|<low, med, 3Doors, morePerson, big, med>) = 0.00020
+Phan lop: acc
+
+high, med, 5Doors, 2Persons, small, high, 
+Pacc|<high, med, 5Doors, 2Persons, small, high>) = 0.00000
+Punacc|<high, med, 5Doors, 2Persons, small, high>) = 0.00040
+Phan lop: unacc
+
+vhigh, med, 5Doors, 4Persons, big, high, 
+Pacc|<vhigh, med, 5Doors, 4Persons, big, high>) = 0.00054
+Punacc|<vhigh, med, 5Doors, 4Persons, big, high>) = 0.00019
+Phan lop: acc
+
+high, low, 5Doors, 4Persons, small, low, 
+Pacc|<high, low, 5Doors, 4Persons, small, low>) = 0.00000
+Punacc|<high, low, 5Doors, 4Persons, small, low>) = 0.00044
+Phan lop: unacc
+
+vhigh, high, 3Doors, 2Persons, med, low, 
+Pacc|<vhigh, high, 3Doors, 2Persons, med, low>) = 0.00000
+Punacc|<vhigh, high, 3Doors, 2Persons, med, low>) = 0.00096
+Phan lop: unacc
+
+high, high, 4Doors, 4Persons, small, med, 
+Pacc|<high, high, 4Doors, 4Persons, small, med>) = 0.00019
+Punacc|<high, high, 4Doors, 4Persons, small, med>) = 0.00030
+Phan lop: unacc
+
+vhigh, high, 5Doors, 4Persons, med, low, 
+Pacc|<vhigh, high, 5Doors, 4Persons, med, low>) = 0.00000
+Punacc|<vhigh, high, 5Doors, 4Persons, med, low>) = 0.00048
+Phan lop: unacc
+
+med, med, 3Doors, 4Persons, med, high, 
+Pacc|<med, med, 3Doors, 4Persons, med, high>) = 0.00062
+Punacc|<med, med, 3Doors, 4Persons, med, high>) = 0.00017
+Phan lop: acc
+
+vhigh, vhigh, 3Doors, morePerson, small, high, 
+Pacc|<vhigh, vhigh, 3Doors, morePerson, small, high>) = 0.00010
+Punacc|<vhigh, vhigh, 3Doors, morePerson, small, high>) = 0.00033
+Phan lop: unacc
+
+med, med, 4Doors, 2Persons, small, med, 
+Pacc|<med, med, 4Doors, 2Persons, small, med>) = 0.00000
+Punacc|<med, med, 4Doors, 2Persons, small, med>) = 0.00043
+Phan lop: unacc
+
+med, vhigh, 2Doors, morePerson, big, med, 
+Pacc|<med, vhigh, 2Doors, morePerson, big, med>) = 0.00023
+Punacc|<med, vhigh, 2Doors, morePerson, big, med>) = 0.00031
+Phan lop: unacc
+
+vhigh, low, 4Doors, morePerson, small, med, 
+Pacc|<vhigh, low, 4Doors, morePerson, small, med>) = 0.00017
+Punacc|<vhigh, low, 4Doors, morePerson, small, med>) = 0.00030
+Phan lop: unacc
+
+high, high, 4Doors, 2Persons, small, med, 
+Pacc|<high, high, 4Doors, 2Persons, small, med>) = 0.00000
+Punacc|<high, high, 4Doors, 2Persons, small, med>) = 0.00057
+Phan lop: unacc
+
+vhigh, vhigh, 5Doors, morePerson, med, med, 
+Pacc|<vhigh, vhigh, 5Doors, morePerson, med, med>) = 0.00013
+Punacc|<vhigh, vhigh, 5Doors, morePerson, med, med>) = 0.00036
+Phan lop: unacc
+
+low, vhigh, 3Doors, 2Persons, small, high, 
+Pacc|<low, vhigh, 3Doors, 2Persons, small, high>) = 0.00000
+Punacc|<low, vhigh, 3Doors, 2Persons, small, high>) = 0.00046
+Phan lop: unacc
+
+med, low, 5Doors, morePerson, small, med, 
+Pacc|<med, low, 5Doors, morePerson, small, med>) = 0.00041
+Punacc|<med, low, 5Doors, morePerson, small, med>) = 0.00023
+Phan lop: acc
+
+low, high, 4Doors, 4Persons, small, high, 
+Pacc|<low, high, 4Doors, 4Persons, small, high>) = 0.00048
+Punacc|<low, high, 4Doors, 4Persons, small, high>) = 0.00020
+Phan lop: acc
+
+high, med, 2Doors, 4Persons, med, low, 
+Pacc|<high, med, 2Doors, 4Persons, med, low>) = 0.00000
+Punacc|<high, med, 2Doors, 4Persons, med, low>) = 0.00048
+Phan lop: unacc
+
+vhigh, high, 5Doors, morePerson, small, med, 
+Pacc|<vhigh, high, 5Doors, morePerson, small, med>) = 0.00015
+Punacc|<vhigh, high, 5Doors, morePerson, small, med>) = 0.00033
+Phan lop: unacc
+
+low, low, 5Doors, 4Persons, med, med, 
+Pacc|<low, low, 5Doors, 4Persons, med, med>) = 0.00075
+Punacc|<low, low, 5Doors, 4Persons, med, med>) = 0.00019
+Phan lop: acc
+
+vhigh, high, 5Doors, 2Persons, med, med, 
+Pacc|<vhigh, high, 5Doors, 2Persons, med, med>) = 0.00000
+Punacc|<vhigh, high, 5Doors, 2Persons, med, med>) = 0.00054
+Phan lop: unacc
+
+high, high, 3Doors, 2Persons, med, med, 
+Pacc|<high, high, 3Doors, 2Persons, med, med>) = 0.00000
+Punacc|<high, high, 3Doors, 2Persons, med, med>) = 0.00053
+Phan lop: unacc
+
+med, high, 4Doors, 4Persons, small, high, 
+Pacc|<med, high, 4Doors, 4Persons, small, high>) = 0.00039
+Punacc|<med, high, 4Doors, 4Persons, small, high>) = 0.00020
+Phan lop: acc
+
+vhigh, low, 3Doors, 4Persons, small, med, 
+Pacc|<vhigh, low, 3Doors, 4Persons, small, med>) = 0.00016
+Punacc|<vhigh, low, 3Doors, 4Persons, small, med>) = 0.00029
+Phan lop: unacc
+
+vhigh, med, 4Doors, 2Persons, med, high, 
+Pacc|<vhigh, med, 4Doors, 2Persons, med, high>) = 0.00000
+Punacc|<vhigh, med, 4Doors, 2Persons, med, high>) = 0.00040
+Phan lop: unacc
+
+vhigh, high, 3Doors, 2Persons, small, high, 
+Pacc|<vhigh, high, 3Doors, 2Persons, small, high>) = 0.00000
+Punacc|<vhigh, high, 3Doors, 2Persons, small, high>) = 0.00050
+Phan lop: unacc
+
+med, vhigh, 5Doors, 4Persons, small, low, 
+Pacc|<med, vhigh, 5Doors, 4Persons, small, low>) = 0.00000
+Punacc|<med, vhigh, 5Doors, 4Persons, small, low>) = 0.00050
+Phan lop: unacc
+
+high, low, 3Doors, morePerson, small, low, 
+Pacc|<high, low, 3Doors, morePerson, small, low>) = 0.00000
+Punacc|<high, low, 3Doors, morePerson, small, low>) = 0.00048
+Phan lop: unacc
+
+vhigh, high, 2Doors, morePerson, big, med, 
+Pacc|<vhigh, high, 2Doors, morePerson, big, med>) = 0.00018
+Punacc|<vhigh, high, 2Doors, morePerson, big, med>) = 0.00033
+Phan lop: unacc
+
+low, low, 2Doors, morePerson, small, high, 
+Pacc|<low, low, 2Doors, morePerson, small, high>) = 0.00046
+Punacc|<low, low, 2Doors, morePerson, small, high>) = 0.00021
+Phan lop: acc
+
+high, high, 5Doors, 2Persons, med, high, 
+Pacc|<high, high, 5Doors, 2Persons, med, high>) = 0.00000
+Punacc|<high, high, 5Doors, 2Persons, med, high>) = 0.00041
+Phan lop: unacc
+
+high, med, 2Doors, 4Persons, med, high, 
+Pacc|<high, med, 2Doors, 4Persons, med, high>) = 0.00037
+Punacc|<high, med, 2Doors, 4Persons, med, high>) = 0.00023
+Phan lop: acc
+
+med, med, 5Doors, morePerson, small, high, 
+Pacc|<med, med, 5Doors, morePerson, small, high>) = 0.00057
+Punacc|<med, med, 5Doors, morePerson, small, high>) = 0.00019
+Phan lop: acc
+
+med, med, 2Doors, 4Persons, med, med, 
+Pacc|<med, med, 2Doors, 4Persons, med, med>) = 0.00043
+Punacc|<med, med, 2Doors, 4Persons, med, med>) = 0.00024
+Phan lop: acc
+
+med, low, 3Doors, 4Persons, med, high, 
+Pacc|<med, low, 3Doors, 4Persons, med, high>) = 0.00059
+Punacc|<med, low, 3Doors, 4Persons, med, high>) = 0.00017
+Phan lop: acc
+
+low, med, 4Doors, 2Persons, big, high, 
+Pacc|<low, med, 4Doors, 2Persons, big, high>) = 0.00000
+Punacc|<low, med, 4Doors, 2Persons, big, high>) = 0.00028
+Phan lop: unacc
+
+low, high, 3Doors, morePerson, big, high, 
+Pacc|<low, high, 3Doors, morePerson, big, high>) = 0.00065
+Punacc|<low, high, 3Doors, morePerson, big, high>) = 0.00018
+Phan lop: acc
+
+vhigh, vhigh, 2Doors, 2Persons, med, low, 
+Pacc|<vhigh, vhigh, 2Doors, 2Persons, med, low>) = 0.00000
+Punacc|<vhigh, vhigh, 2Doors, 2Persons, med, low>) = 0.00130
+Phan lop: unacc
+
+vhigh, low, 2Doors, 2Persons, big, high, 
+Pacc|<vhigh, low, 2Doors, 2Persons, big, high>) = 0.00000
+Punacc|<vhigh, low, 2Doors, 2Persons, big, high>) = 0.00042
+Phan lop: unacc
+
+low, med, 5Doors, morePerson, small, med, 
+Pacc|<low, med, 5Doors, morePerson, small, med>) = 0.00054
+Punacc|<low, med, 5Doors, morePerson, small, med>) = 0.00022
+Phan lop: acc
+
+med, high, 5Doors, 4Persons, big, low, 
+Pacc|<med, high, 5Doors, 4Persons, big, low>) = 0.00000
+Punacc|<med, high, 5Doors, 4Persons, big, low>) = 0.00035
+Phan lop: unacc
+
+med, vhigh, 4Doors, 4Persons, med, med, 
+Pacc|<med, vhigh, 4Doors, 4Persons, med, med>) = 0.00025
+Punacc|<med, vhigh, 4Doors, 4Persons, med, med>) = 0.00028
+Phan lop: unacc
+
+med, high, 5Doors, morePerson, med, high, 
+Pacc|<med, high, 5Doors, morePerson, med, high>) = 0.00054
+Punacc|<med, high, 5Doors, morePerson, med, high>) = 0.00019
+Phan lop: acc
+
+high, high, 3Doors, morePerson, med, low, 
+Pacc|<high, high, 3Doors, morePerson, med, low>) = 0.00000
+Punacc|<high, high, 3Doors, morePerson, med, low>) = 0.00050
+Phan lop: unacc
+
+med, vhigh, 3Doors, 4Persons, med, med, 
+Pacc|<med, vhigh, 3Doors, 4Persons, med, med>) = 0.00022
+Punacc|<med, vhigh, 3Doors, 4Persons, med, med>) = 0.00028
+Phan lop: unacc
+
+high, low, 3Doors, 2Persons, big, med, 
+Pacc|<high, low, 3Doors, 2Persons, big, med>) = 0.00000
+Punacc|<high, low, 3Doors, 2Persons, big, med>) = 0.00043
+Phan lop: unacc
+
+vhigh, vhigh, 4Doors, 4Persons, big, high, 
+Pacc|<vhigh, vhigh, 4Doors, 4Persons, big, high>) = 0.00021
+Punacc|<vhigh, vhigh, 4Doors, 4Persons, big, high>) = 0.00026
+Phan lop: unacc
+
+low, low, 3Doors, morePerson, med, med, 
+Pacc|<low, low, 3Doors, morePerson, med, med>) = 0.00050
+Punacc|<low, low, 3Doors, morePerson, med, med>) = 0.00021
+Phan lop: acc
+
+vhigh, vhigh, 3Doors, morePerson, big, high, 
+Pacc|<vhigh, vhigh, 3Doors, morePerson, big, high>) = 0.00017
+Punacc|<vhigh, vhigh, 3Doors, morePerson, big, high>) = 0.00028
+Phan lop: unacc
+
+med, med, 3Doors, 2Persons, small, high, 
+Pacc|<med, med, 3Doors, 2Persons, small, high>) = 0.00000
+Punacc|<med, med, 3Doors, 2Persons, small, high>) = 0.00035
+Phan lop: unacc
+
+high, vhigh, 3Doors, morePerson, small, high, 
+Pacc|<high, vhigh, 3Doors, morePerson, small, high>) = 0.00013
+Punacc|<high, vhigh, 3Doors, morePerson, small, high>) = 0.00031
+Phan lop: unacc
+
+low, high, 4Doors, 4Persons, small, low, 
+Pacc|<low, high, 4Doors, 4Persons, small, low>) = 0.00000
+Punacc|<low, high, 4Doors, 4Persons, small, low>) = 0.00042
+Phan lop: unacc
+
+med, med, 2Doors, morePerson, med, high, 
+Pacc|<med, med, 2Doors, morePerson, med, high>) = 0.00052
+Punacc|<med, med, 2Doors, morePerson, med, high>) = 0.00020
+Phan lop: acc
+
+vhigh, high, 4Doors, 2Persons, big, low, 
+Pacc|<vhigh, high, 4Doors, 2Persons, big, low>) = 0.00000
+Punacc|<vhigh, high, 4Doors, 2Persons, big, low>) = 0.00088
+Phan lop: unacc
+
+high, vhigh, 3Doors, 4Persons, big, high, 
+Pacc|<high, vhigh, 3Doors, 4Persons, big, high>) = 0.00024
+Punacc|<high, vhigh, 3Doors, 4Persons, big, high>) = 0.00025
+Phan lop: unacc
+
+med, med, 2Doors, 2Persons, small, low, 
+Pacc|<med, med, 2Doors, 2Persons, small, low>) = 0.00000
+Punacc|<med, med, 2Doors, 2Persons, small, low>) = 0.00083
+Phan lop: unacc
+
+vhigh, low, 3Doors, morePerson, small, low, 
+Pacc|<vhigh, low, 3Doors, morePerson, small, low>) = 0.00000
+Punacc|<vhigh, low, 3Doors, morePerson, small, low>) = 0.00052
+Phan lop: unacc
+
+med, high, 3Doors, 4Persons, big, high, 
+Pacc|<med, high, 3Doors, 4Persons, big, high>) = 0.00058
+Punacc|<med, high, 3Doors, 4Persons, big, high>) = 0.00018
+Phan lop: acc
+
+high, med, 4Doors, 4Persons, med, med, 
+Pacc|<high, med, 4Doors, 4Persons, med, med>) = 0.00035
+Punacc|<high, med, 4Doors, 4Persons, med, med>) = 0.00025
+Phan lop: acc
+
+low, med, 3Doors, 4Persons, small, med, 
+Pacc|<low, med, 3Doors, 4Persons, small, med>) = 0.00044
+Punacc|<low, med, 3Doors, 4Persons, small, med>) = 0.00022
+Phan lop: acc
+
+vhigh, vhigh, 4Doors, morePerson, big, med, 
+Pacc|<vhigh, vhigh, 4Doors, morePerson, big, med>) = 0.00015
+Punacc|<vhigh, vhigh, 4Doors, morePerson, big, med>) = 0.00034
+Phan lop: unacc
+
+high, low, 3Doors, 4Persons, med, med, 
+Pacc|<high, low, 3Doors, 4Persons, med, med>) = 0.00029
+Punacc|<high, low, 3Doors, 4Persons, med, med>) = 0.00025
+Phan lop: acc
+
+low, low, 5Doors, morePerson, med, med, 
+Pacc|<low, low, 5Doors, morePerson, med, med>) = 0.00068
+Punacc|<low, low, 5Doors, morePerson, med, med>) = 0.00020
+Phan lop: acc
+
+low, med, 3Doors, 4Persons, med, med, 
+Pacc|<low, med, 3Doors, 4Persons, med, med>) = 0.00059
+Punacc|<low, med, 3Doors, 4Persons, med, med>) = 0.00020
+Phan lop: acc
+
+low, high, 5Doors, 2Persons, med, med, 
+Pacc|<low, high, 5Doors, 2Persons, med, med>) = 0.00000
+Punacc|<low, high, 5Doors, 2Persons, med, med>) = 0.00041
+Phan lop: unacc
+
+vhigh, high, 5Doors, morePerson, small, low, 
+Pacc|<vhigh, high, 5Doors, morePerson, small, low>) = 0.00000
+Punacc|<vhigh, high, 5Doors, morePerson, small, low>) = 0.00056
+Phan lop: unacc
+
+low, high, 4Doors, 4Persons, med, med, 
+Pacc|<low, high, 4Doors, 4Persons, med, med>) = 0.00048
+Punacc|<low, high, 4Doors, 4Persons, med, med>) = 0.00022
+Phan lop: acc
+
+low, med, 3Doors, 2Persons, small, med, 
+Pacc|<low, med, 3Doors, 2Persons, small, med>) = 0.00000
+Punacc|<low, med, 3Doors, 2Persons, small, med>) = 0.00042
+Phan lop: unacc
+
+high, high, 2Doors, 4Persons, med, med, 
+Pacc|<high, high, 2Doors, 4Persons, med, med>) = 0.00020
+Punacc|<high, high, 2Doors, 4Persons, med, med>) = 0.00032
+Phan lop: unacc
+
+vhigh, med, 3Doors, morePerson, big, high, 
+Pacc|<vhigh, med, 3Doors, morePerson, big, high>) = 0.00036
+Punacc|<vhigh, med, 3Doors, morePerson, big, high>) = 0.00021
+Phan lop: acc
+
+med, low, 3Doors, 4Persons, med, med, 
+Pacc|<med, low, 3Doors, 4Persons, med, med>) = 0.00044
+Punacc|<med, low, 3Doors, 4Persons, med, med>) = 0.00021
+Phan lop: acc
+
+med, vhigh, 2Doors, 4Persons, med, low, 
+Pacc|<med, vhigh, 2Doors, 4Persons, med, low>) = 0.00000
+Punacc|<med, vhigh, 2Doors, 4Persons, med, low>) = 0.00054
+Phan lop: unacc
+
+high, high, 3Doors, 4Persons, big, med, 
+Pacc|<high, high, 3Doors, 4Persons, big, med>) = 0.00028
+Punacc|<high, high, 3Doors, 4Persons, big, med>) = 0.00026
+Phan lop: acc
+
+vhigh, vhigh, 5Doors, 2Persons, small, low, 
+Pacc|<vhigh, vhigh, 5Doors, 2Persons, small, low>) = 0.00000
+Punacc|<vhigh, vhigh, 5Doors, 2Persons, small, low>) = 0.00120
+Phan lop: unacc
+
+vhigh, low, 4Doors, 4Persons, big, high, 
+Pacc|<vhigh, low, 4Doors, 4Persons, big, high>) = 0.00044
+Punacc|<vhigh, low, 4Doors, 4Persons, big, high>) = 0.00019
+Phan lop: acc
+
+vhigh, med, 2Doors, morePerson, small, low, 
+Pacc|<vhigh, med, 2Doors, morePerson, small, low>) = 0.00000
+Punacc|<vhigh, med, 2Doors, morePerson, small, low>) = 0.00059
+Phan lop: unacc
+
+high, vhigh, 4Doors, morePerson, big, low, 
+Pacc|<high, vhigh, 4Doors, morePerson, big, low>) = 0.00000
+Punacc|<high, vhigh, 4Doors, morePerson, big, low>) = 0.00054
+Phan lop: unacc
+
+high, high, 4Doors, 2Persons, med, med, 
+Pacc|<high, high, 4Doors, 2Persons, med, med>) = 0.00000
+Punacc|<high, high, 4Doors, 2Persons, med, med>) = 0.00052
+Phan lop: unacc
+
+high, med, 3Doors, 4Persons, big, low, 
+Pacc|<high, med, 3Doors, 4Persons, big, low>) = 0.00000
+Punacc|<high, med, 3Doors, 4Persons, big, low>) = 0.00039
+Phan lop: unacc
+
+med, low, 5Doors, 2Persons, med, high, 
+Pacc|<med, low, 5Doors, 2Persons, med, high>) = 0.00000
+Punacc|<med, low, 5Doors, 2Persons, med, high>) = 0.00030
+Phan lop: unacc
+
+med, low, 5Doors, 2Persons, big, low, 
+Pacc|<med, low, 5Doors, 2Persons, big, low>) = 0.00000
+Punacc|<med, low, 5Doors, 2Persons, big, low>) = 0.00059
+Phan lop: unacc
+
+vhigh, med, 5Doors, 2Persons, small, med, 
+Pacc|<vhigh, med, 5Doors, 2Persons, small, med>) = 0.00000
+Punacc|<vhigh, med, 5Doors, 2Persons, small, med>) = 0.00053
+Phan lop: unacc
+
+vhigh, high, 5Doors, 4Persons, big, low, 
+Pacc|<vhigh, high, 5Doors, 4Persons, big, low>) = 0.00000
+Punacc|<vhigh, high, 5Doors, 4Persons, big, low>) = 0.00045
+Phan lop: unacc
+
+vhigh, med, 4Doors, 4Persons, small, high, 
+Pacc|<vhigh, med, 4Doors, 4Persons, small, high>) = 0.00027
+Punacc|<vhigh, med, 4Doors, 4Persons, small, high>) = 0.00023
+Phan lop: acc
+
+high, high, 3Doors, 2Persons, small, med, 
+Pacc|<high, high, 3Doors, 2Persons, small, med>) = 0.00000
+Punacc|<high, high, 3Doors, 2Persons, small, med>) = 0.00058
+Phan lop: unacc
+
+high, low, 5Doors, 2Persons, small, high, 
+Pacc|<high, low, 5Doors, 2Persons, small, high>) = 0.00000
+Punacc|<high, low, 5Doors, 2Persons, small, high>) = 0.00039
+Phan lop: unacc
+
+high, low, 3Doors, morePerson, med, med, 
+Pacc|<high, low, 3Doors, morePerson, med, med>) = 0.00026
+Punacc|<high, low, 3Doors, morePerson, med, med>) = 0.00026
+Phan lop: acc
+
+high, med, 3Doors, morePerson, big, high, 
+Pacc|<high, med, 3Doors, morePerson, big, high>) = 0.00048
+Punacc|<high, med, 3Doors, morePerson, big, high>) = 0.00020
+Phan lop: acc
+
+high, high, 4Doors, morePerson, big, high, 
+Pacc|<high, high, 4Doors, morePerson, big, high>) = 0.00039
+Punacc|<high, high, 4Doors, morePerson, big, high>) = 0.00022
+Phan lop: acc
+
+high, low, 5Doors, 4Persons, med, low, 
+Pacc|<high, low, 5Doors, 4Persons, med, low>) = 0.00000
+Punacc|<high, low, 5Doors, 4Persons, med, low>) = 0.00040
+Phan lop: unacc
+
+high, vhigh, 5Doors, morePerson, med, high, 
+Pacc|<high, vhigh, 5Doors, morePerson, med, high>) = 0.00023
+Punacc|<high, vhigh, 5Doors, morePerson, med, high>) = 0.00027
+Phan lop: unacc
+
+high, med, 3Doors, 2Persons, big, low, 
+Pacc|<high, med, 3Doors, 2Persons, big, low>) = 0.00000
+Punacc|<high, med, 3Doors, 2Persons, big, low>) = 0.00074
+Phan lop: unacc
+
+low, high, 2Doors, morePerson, med, high, 
+Pacc|<low, high, 2Doors, morePerson, med, high>) = 0.00046
+Punacc|<low, high, 2Doors, morePerson, med, high>) = 0.00022
+Phan lop: acc
+
+high, high, 2Doors, morePerson, med, high, 
+Pacc|<high, high, 2Doors, morePerson, med, high>) = 0.00024
+Punacc|<high, high, 2Doors, morePerson, med, high>) = 0.00027
+Phan lop: unacc
+
+low, low, 4Doors, 4Persons, big, med, 
+Pacc|<low, low, 4Doors, 4Persons, big, med>) = 0.00084
+Punacc|<low, low, 4Doors, 4Persons, big, med>) = 0.00018
+Phan lop: acc
+
+high, vhigh, 5Doors, 2Persons, small, low, 
+Pacc|<high, vhigh, 5Doors, 2Persons, small, low>) = 0.00000
+Punacc|<high, vhigh, 5Doors, 2Persons, small, low>) = 0.00112
+Phan lop: unacc
+
+low, high, 5Doors, 4Persons, small, low, 
+Pacc|<low, high, 5Doors, 4Persons, small, low>) = 0.00000
+Punacc|<low, high, 5Doors, 4Persons, small, low>) = 0.00040
+Phan lop: unacc
+
+med, med, 2Doors, morePerson, big, med, 
+Pacc|<med, med, 2Doors, morePerson, big, med>) = 0.00051
+Punacc|<med, med, 2Doors, morePerson, big, med>) = 0.00023
+Phan lop: acc
+
+low, med, 5Doors, 2Persons, small, low, 
+Pacc|<low, med, 5Doors, 2Persons, small, low>) = 0.00000
+Punacc|<low, med, 5Doors, 2Persons, small, low>) = 0.00068
+Phan lop: unacc
+
+low, high, 2Doors, 4Persons, big, high, 
+Pacc|<low, high, 2Doors, 4Persons, big, high>) = 0.00066
+Punacc|<low, high, 2Doors, 4Persons, big, high>) = 0.00019
+Phan lop: acc
+
+vhigh, low, 2Doors, morePerson, small, low, 
+Pacc|<vhigh, low, 2Doors, morePerson, small, low>) = 0.00000
+Punacc|<vhigh, low, 2Doors, morePerson, small, low>) = 0.00058
+Phan lop: unacc
+
+low, vhigh, 2Doors, 4Persons, big, high, 
+Pacc|<low, vhigh, 2Doors, 4Persons, big, high>) = 0.00043
+Punacc|<low, vhigh, 2Doors, 4Persons, big, high>) = 0.00023
+Phan lop: acc
+
+low, low, 2Doors, 4Persons, small, high, 
+Pacc|<low, low, 2Doors, 4Persons, small, high>) = 0.00051
+Punacc|<low, low, 2Doors, 4Persons, small, high>) = 0.00020
+Phan lop: acc
+
+med, vhigh, 3Doors, morePerson, big, low, 
+Pacc|<med, vhigh, 3Doors, morePerson, big, low>) = 0.00000
+Punacc|<med, vhigh, 3Doors, morePerson, big, low>) = 0.00046
+Phan lop: unacc
+
+vhigh, low, 3Doors, morePerson, big, low, 
+Pacc|<vhigh, low, 3Doors, morePerson, big, low>) = 0.00000
+Punacc|<vhigh, low, 3Doors, morePerson, big, low>) = 0.00044
+Phan lop: unacc
+
+vhigh, vhigh, 5Doors, morePerson, small, med, 
+Pacc|<vhigh, vhigh, 5Doors, morePerson, small, med>) = 0.00010
+Punacc|<vhigh, vhigh, 5Doors, morePerson, small, med>) = 0.00039
+Phan lop: unacc
+
+med, low, 3Doors, 2Persons, small, low, 
+Pacc|<med, low, 3Doors, 2Persons, small, low>) = 0.00000
+Punacc|<med, low, 3Doors, 2Persons, small, low>) = 0.00073
+Phan lop: unacc
+
+vhigh, high, 2Doors, 2Persons, small, low, 
+Pacc|<vhigh, high, 2Doors, 2Persons, small, low>) = 0.00000
+Punacc|<vhigh, high, 2Doors, 2Persons, small, low>) = 0.00119
+Phan lop: unacc
+
+vhigh, high, 4Doors, 4Persons, small, med, 
+Pacc|<vhigh, high, 4Doors, 4Persons, small, med>) = 0.00014
+Punacc|<vhigh, high, 4Doors, 4Persons, small, med>) = 0.00032
+Phan lop: unacc
+
+med, med, 5Doors, morePerson, big, low, 
+Pacc|<med, med, 5Doors, morePerson, big, low>) = 0.00000
+Punacc|<med, med, 5Doors, morePerson, big, low>) = 0.00033
+Phan lop: unacc
+
+med, high, 3Doors, 4Persons, small, med, 
+Pacc|<med, high, 3Doors, 4Persons, small, med>) = 0.00025
+Punacc|<med, high, 3Doors, 4Persons, small, med>) = 0.00026
+Phan lop: unacc
+
+vhigh, low, 3Doors, morePerson, small, med, 
+Pacc|<vhigh, low, 3Doors, morePerson, small, med>) = 0.00015
+Punacc|<vhigh, low, 3Doors, morePerson, small, med>) = 0.00030
+Phan lop: unacc
+
+med, low, 3Doors, morePerson, big, high, 
+Pacc|<med, low, 3Doors, morePerson, big, high>) = 0.00069
+Punacc|<med, low, 3Doors, morePerson, big, high>) = 0.00016
+Phan lop: acc
+
+vhigh, low, 5Doors, morePerson, med, high, 
+Pacc|<vhigh, low, 5Doors, morePerson, med, high>) = 0.00035
+Punacc|<vhigh, low, 5Doors, morePerson, med, high>) = 0.00021
+Phan lop: acc
+
+med, vhigh, 3Doors, morePerson, small, med, 
+Pacc|<med, vhigh, 3Doors, morePerson, small, med>) = 0.00015
+Punacc|<med, vhigh, 3Doors, morePerson, small, med>) = 0.00032
+Phan lop: unacc
+
+med, high, 2Doors, morePerson, big, high, 
+Pacc|<med, high, 2Doors, morePerson, big, high>) = 0.00048
+Punacc|<med, high, 2Doors, morePerson, big, high>) = 0.00021
+Phan lop: acc
+
+low, low, 4Doors, 4Persons, big, high, 
+Pacc|<low, low, 4Doors, 4Persons, big, high>) = 0.00111
+Punacc|<low, low, 4Doors, 4Persons, big, high>) = 0.00015
+Phan lop: acc
+
+med, vhigh, 3Doors, 2Persons, med, low, 
+Pacc|<med, vhigh, 3Doors, 2Persons, med, low>) = 0.00000
+Punacc|<med, vhigh, 3Doors, 2Persons, med, low>) = 0.00090
+Phan lop: unacc
+
+med, med, 4Doors, 2Persons, big, low, 
+Pacc|<med, med, 4Doors, 2Persons, big, low>) = 0.00000
+Punacc|<med, med, 4Doors, 2Persons, big, low>) = 0.00061
+Phan lop: unacc
+
+vhigh, low, 5Doors, 2Persons, med, med, 
+Pacc|<vhigh, low, 5Doors, 2Persons, med, med>) = 0.00000
+Punacc|<vhigh, low, 5Doors, 2Persons, med, med>) = 0.00048
+Phan lop: unacc
+
+low, med, 2Doors, 4Persons, small, low, 
+Pacc|<low, med, 2Doors, 4Persons, small, low>) = 0.00000
+Punacc|<low, med, 2Doors, 4Persons, small, low>) = 0.00043
+Phan lop: unacc
+
+high, high, 5Doors, morePerson, small, low, 
+Pacc|<high, high, 5Doors, morePerson, small, low>) = 0.00000
+Punacc|<high, high, 5Doors, morePerson, small, low>) = 0.00052
+Phan lop: unacc
+
+low, vhigh, 2Doors, 4Persons, med, low, 
+Pacc|<low, vhigh, 2Doors, 4Persons, med, low>) = 0.00000
+Punacc|<low, vhigh, 2Doors, 4Persons, med, low>) = 0.00052
+Phan lop: unacc
+
+vhigh, vhigh, 5Doors, 2Persons, med, high, 
+Pacc|<vhigh, vhigh, 5Doors, 2Persons, med, high>) = 0.00000
+Punacc|<vhigh, vhigh, 5Doors, 2Persons, med, high>) = 0.00052
+Phan lop: unacc
+
+low, vhigh, 4Doors, 2Persons, small, med, 
+Pacc|<low, vhigh, 4Doors, 2Persons, small, med>) = 0.00000
+Punacc|<low, vhigh, 4Doors, 2Persons, small, med>) = 0.00056
+Phan lop: unacc
+
+high, low, 5Doors, morePerson, small, med, 
+Pacc|<high, low, 5Doors, morePerson, small, med>) = 0.00027
+Punacc|<high, low, 5Doors, morePerson, small, med>) = 0.00027
+Phan lop: unacc
+
+med, med, 2Doors, 2Persons, small, med, 
+Pacc|<med, med, 2Doors, 2Persons, small, med>) = 0.00000
+Punacc|<med, med, 2Doors, 2Persons, small, med>) = 0.00049
+Phan lop: unacc
+
+low, med, 4Doors, 2Persons, small, high, 
+Pacc|<low, med, 4Doors, 2Persons, small, high>) = 0.00000
+Punacc|<low, med, 4Doors, 2Persons, small, high>) = 0.00034
+Phan lop: unacc
+
+vhigh, high, 2Doors, morePerson, med, med, 
+Pacc|<vhigh, high, 2Doors, morePerson, med, med>) = 0.00014
+Punacc|<vhigh, high, 2Doors, morePerson, med, med>) = 0.00036
+Phan lop: unacc
+
+vhigh, low, 3Doors, 2Persons, med, med, 
+Pacc|<vhigh, low, 3Doors, 2Persons, med, med>) = 0.00000
+Punacc|<vhigh, low, 3Doors, 2Persons, med, med>) = 0.00050
+Phan lop: unacc
+
+high, vhigh, 4Doors, 2Persons, big, low, 
+Pacc|<high, vhigh, 4Doors, 2Persons, big, low>) = 0.00000
+Punacc|<high, vhigh, 4Doors, 2Persons, big, low>) = 0.00098
+Phan lop: unacc
+
+vhigh, low, 4Doors, 4Persons, small, med, 
+Pacc|<vhigh, low, 4Doors, 4Persons, small, med>) = 0.00019
+Punacc|<vhigh, low, 4Doors, 4Persons, small, med>) = 0.00029
+Phan lop: unacc
+
+low, low, 5Doors, 4Persons, small, high, 
+Pacc|<low, low, 5Doors, 4Persons, small, high>) = 0.00075
+Punacc|<low, low, 5Doors, 4Persons, small, high>) = 0.00017
+Phan lop: acc
+
+high, med, 3Doors, 4Persons, small, high, 
+Pacc|<high, med, 3Doors, 4Persons, small, high>) = 0.00030
+Punacc|<high, med, 3Doors, 4Persons, small, high>) = 0.00022
+Phan lop: acc
+
+low, med, 5Doors, 4Persons, small, low, 
+Pacc|<low, med, 5Doors, 4Persons, small, low>) = 0.00000
+Punacc|<low, med, 5Doors, 4Persons, small, low>) = 0.00036
+Phan lop: unacc
+
+med, vhigh, 5Doors, 4Persons, small, med, 
+Pacc|<med, vhigh, 5Doors, 4Persons, small, med>) = 0.00022
+Punacc|<med, vhigh, 5Doors, 4Persons, small, med>) = 0.00029
+Phan lop: unacc
+
+vhigh, vhigh, 4Doors, 2Persons, med, high, 
+Pacc|<vhigh, vhigh, 4Doors, 2Persons, med, high>) = 0.00000
+Punacc|<vhigh, vhigh, 4Doors, 2Persons, med, high>) = 0.00054
+Phan lop: unacc
+
+vhigh, med, 4Doors, 4Persons, big, low, 
+Pacc|<vhigh, med, 4Doors, 4Persons, big, low>) = 0.00000
+Punacc|<vhigh, med, 4Doors, 4Persons, big, low>) = 0.00041
+Phan lop: unacc
+
+low, high, 3Doors, 4Persons, small, low, 
+Pacc|<low, high, 3Doors, 4Persons, small, low>) = 0.00000
+Punacc|<low, high, 3Doors, 4Persons, small, low>) = 0.00042
+Phan lop: unacc
+
+med, med, 5Doors, 2Persons, med, med, 
+Pacc|<med, med, 5Doors, 2Persons, med, med>) = 0.00000
+Punacc|<med, med, 5Doors, 2Persons, med, med>) = 0.00038
+Phan lop: unacc
+
+high, low, 3Doors, 4Persons, med, high, 
+Pacc|<high, low, 3Doors, 4Persons, med, high>) = 0.00038
+Punacc|<high, low, 3Doors, 4Persons, med, high>) = 0.00020
+Phan lop: acc
+
+high, vhigh, 3Doors, 2Persons, small, low, 
+Pacc|<high, vhigh, 3Doors, 2Persons, small, low>) = 0.00000
+Punacc|<high, vhigh, 3Doors, 2Persons, small, low>) = 0.00117
+Phan lop: unacc
+
+high, low, 4Doors, 2Persons, small, med, 
+Pacc|<high, low, 4Doors, 2Persons, small, med>) = 0.00000
+Punacc|<high, low, 4Doors, 2Persons, small, med>) = 0.00050
+Phan lop: unacc
+
+low, vhigh, 4Doors, 2Persons, big, med, 
+Pacc|<low, vhigh, 4Doors, 2Persons, big, med>) = 0.00000
+Punacc|<low, vhigh, 4Doors, 2Persons, big, med>) = 0.00047
+Phan lop: unacc
+
+med, high, 3Doors, 2Persons, big, low, 
+Pacc|<med, high, 3Doors, 2Persons, big, low>) = 0.00000
+Punacc|<med, high, 3Doors, 2Persons, big, low>) 

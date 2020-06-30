@@ -19,7 +19,7 @@ import java.io.*;
 import java.util.*;
 
 public class apriori {
-
+	
     public static void main(String[] args) {
         AprioriCalculation ap = new AprioriCalculation();
         ap.aprioriProcess();
@@ -31,7 +31,8 @@ public class apriori {
  *****************************************************************************/
 class AprioriCalculation
 {
-    Vector<String> candidates = new Vector<String>() ; //the current candidates
+	ArrayList<Vector<String>> taptoidai = new ArrayList<Vector<String>>();
+    Vector<String> candidates = new Vector<String>(); //the current candidates
     String configFile="./src\\apriori\\config.txt"; //configuration file
     String transaFile="./src\\apriori\\transa.txt"; //transaction file
     String outputFile="apriori-output.txt";//output file
@@ -47,12 +48,23 @@ class AprioriCalculation
      * Parameters   : None
      * Return       : None
      *************************************************************************/
+    
+    public boolean kiemtratrung(StringTokenizer str1, String str2) {
+    	while(str1.hasMoreTokens()) {
+    		String a = str1.nextToken();
+    		if(!str2.contains(a)) {
+    			return false;
+    		}
+    	}
+    	return true;
+    }
+    
     public void aprioriProcess()
     {
         Date d; //date object for timing purposes
         long start, end; //start and end time
         int itemsetNumber = 0; //the current itemset being looked at
-        //get config
+  
         getConfig();
 
         System.out.println("Apriori algorithm has started.\n");
@@ -72,19 +84,58 @@ class AprioriCalculation
 
             //determine and display frequent itemsets
             calculateFrequentItemsets(itemsetNumber);
-            if(candidates.size()!=0)
+            if(candidates.size() != 0)
             {
                 System.out.println("Frequent " + itemsetNumber + "-itemsets");
                 System.out.println(candidates);
+                taptoidai.add(new Vector<String>(candidates));
+                
             }
         //if there are <=1 frequent items, then its the end. This prevents reading through the database again. When there is only one frequent itemset.
         
-        }while(candidates.size()>1);
+        }while(candidates.size() > 1);
 
+        int i = taptoidai.size() - 1;
+        while(i > 0) {
+        	int l = i;
+        	int j = taptoidai.get(i).size() - 1;
+        	
+        	while(j >= 0) {
+        		StringTokenizer st = new StringTokenizer(taptoidai.get(i).get(j));
+        		String str = new String();
+        		while(st.hasMoreTokens()) {
+    	        	str += st.nextToken();
+    	        }
+        		int k = 0;
+        		while(k < taptoidai.get(l - 1).size()) {
+        			StringTokenizer st1 = new StringTokenizer(taptoidai.get(l - 1).get(k));
+        			if(kiemtratrung(st1, str)){
+        				taptoidai.get(l - 1).remove(k);
+        			}
+        			else k++;
+        		}
+        		
+        		if( k == taptoidai.get(l - 1).size())
+        			l--;
+        		
+        		if(l < 1) {
+        			j--;
+        			l = i;
+        		}
+        	}
+        	
+        	if(j < 0) i--;
+        }
+        i = 0;
+        while(i < taptoidai.size()) {
+        	if(taptoidai.get(i).isEmpty()) {
+        		taptoidai.remove(i);
+        	}else i++;
+        }
+        System.out.println("Tap toi dai: " + taptoidai);
         //end timer
         d = new Date();
         end = d.getTime();
-
         //display the execution time
         System.out.println("Execution time is: "+((double)(end-start)/1000) + " seconds.");
     }
@@ -133,31 +184,31 @@ class AprioriCalculation
         System.out.println("\tOutput File: " + outputFile);
         System.out.println("\nPress 'C' to change the item separator, configuration file and transaction files");
         System.out.print("or any other key to continue.  ");
-        input=getInput();
+        input = getInput();
 
-        if(input.compareToIgnoreCase("c")==0)
+        if(input.compareToIgnoreCase("c") == 0)
         {
             System.out.print("Enter new transaction filename (return for '"+transaFile+"'): ");
-            input=getInput();
+            input = getInput();
             if(input.compareToIgnoreCase("")!=0)
-                transaFile=input;
+                transaFile = input;
 
             System.out.print("Enter new configuration filename (return for '"+configFile+"'): ");
-            input=getInput();
+            input = getInput();
             if(input.compareToIgnoreCase("")!=0)
-                configFile=input;
+                configFile = input;
 
             System.out.print("Enter new output filename (return for '"+outputFile+"'): ");
-            input=getInput();
+            input = getInput();
             if(input.compareToIgnoreCase("")!=0)
-                outputFile=input;
+                outputFile = input;
 
             System.out.println("Filenames changed");
 
             System.out.print("Enter the separating character(s) for items (return for '"+itemSep+"'): ");
-            input=getInput();
+            input = getInput();
             if(input.compareToIgnoreCase("")!=0)
-                itemSep=input;
+                itemSep = input;
 
 
         }
@@ -179,13 +230,13 @@ class AprioriCalculation
              System.out.print("\nInput configuration: "+numItems+" items, "+numTransactions+" transactions, ");
              System.out.println("minsup = "+minSup+"%");
              System.out.println();
-             minSup/=100.0;
+             minSup /= 100.0;
 
             oneVal = new String[numItems];
             System.out.print("Enter 'y' to change the value each row recognizes as a '1':");
-            if(getInput().compareToIgnoreCase("y")==0)
+            if(getInput().compareToIgnoreCase("y") == 0)
             {
-                for(int i=0; i<oneVal.length; i++)
+                for(int i = 0; i < oneVal.length; i++)
                 {
                     System.out.print("Enter value for column #" + (i+1) + ": ");
                     oneVal[i] = getInput();
